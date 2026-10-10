@@ -1,0 +1,651 @@
+remedy_id,abbreviation,full_name
+1,Abies-c,Abies Canadensis
+2,Abies-n.,Abies Nigra
+3,Abrot.,Abrotanum
+4,Absin.,Absinthium
+5,Acal.,Acalypha Indica
+6,Acet-ac.,Acetic Acid
+7,Acon-c.,Aconitum Cammarum
+8,Acon-f.,Aconitum Ferox
+9,Acon-l.,Aconitum Lycotonum
+10,Acon.,Aconitum Napellus
+11,Act-sp.,Actæa Spicata
+12,Æsc-g.,Æsculus Glabra
+13,Æsc.,Æsculus Hippocastanum
+14,Æth.,Æthusa Cynapium
+15,Agar-em.,Agaricus Emeticus
+16,Agar-ph.,Agaricus Phalloides
+17,Agar.,Agaricus Muscarius
+18,Agn.,Agnus Castus
+19,Ail.,Ailanthus
+20,Alco.,Alcohol
+21,Alet.,Aletris Farinosa
+22,All-c.,Allium Cepa
+23,All-s.,Allium Sativum
+24,Aloe.,Aloe Socotrina
+25,Alst.,Alstonia Constricta
+26,Alum-m.,Aluminium Metallicum
+27,Alum-sil.,Alumina Silicata
+28,Alum.,Alumina
+29,Alumn.,Alumen
+30,Am-be.,Ammonium Benzoicum
+31,Am-br.,Ammonium Bromatum
+32,Am-c.,Ammonium Carbonicum
+33,Am-caust.,Ammonium Causticum
+34,Am-m.,Ammonium Muriaticum
+35,Ambr.,Ambra Grisea
+36,Ambro.,Ambrosia Artemisiæ folia
+37,Aml-n.,Amyl Nitrite
+38,Ammc.,Ammoniacum Gummi
+39,Amph.,Amphisbœna
+40,Amyg.,Amygdalæ Amaræ Aqua
+41,Anac-oc.,Anacardium Occidentale
+42,Anac.,Anacardium Orientale
+43,Anag.,Anagallis Arvensis
+44,Anan.,Anantherum Muricatum
+45,Ang.,Angustura Vera
+46,Anil.,Anilinum
+47,Anis.,Anisum Stellatum
+48,Ant-a.,Antimonium Arsenicosum
+49,Ant-c.,Antimonium Crudum
+50,Ant-chl.,Antimonium Chloridum
+51,Ant-ox.,Antimonium Oxydatum
+52,Ant-s.,Antimonium Sulph. Auratum
+53,Ant-t.,Antimonium Tartaricum
+54,Anth.,Anthemis Nobilis
+55,Anthr.,Anthracinum
+56,Anthro.,Anthrokokali
+57,Ap-g.,Apium Graveolens
+58,Aphis.,Aphis Chenopodii glauci
+59,Apis.,Apis Mellifica
+60,Apoc-a.,Apocynum Androsæmifolium
+61,Apoc.,Apocynum Cannabinum
+62,Apom.,Apomorphium
+63,Aral.,Aralia Racemosa
+64,Aran-s.,Aranea Scinencia
+65,Aran.,Aranea Diadema
+66,Arg-c.,Argentum Cyanidum
+67,Arg-m.,Argentum Metallicum
+68,Arg-mur.,Argentum Muriaticum
+69,Arg-n.,Argentum Nitricum
+70,Arn.,Arnica Montana
+71,Ars-h.,Arsenicum Hydrogenisatum
+72,Ars-i.,Arsenicum Iodatum
+73,Ars-m.,Arsenicum Metallicum
+74,Ars-n.,Arsenicum Nitricum
+75,Ars-s-f.,Arsenicum Sulphuratum Flavum
+76,Ars-s-r.,Arsenicum Sulphuratum Rubrum
+77,Ars.,Arsenicum Album
+78,Art-v.,Artemisia Vulgaris
+79,Arum-d.,Arum Dracontium
+80,Arum-i.,Arum Italicum
+81,Arum-m.,Arum Maculatum
+82,Arum-t.,Arum Triphyllum
+83,Arund-d.,Arundo Donax
+84,Arund.,Arundo Mauritanica
+85,Asaf.,Asa Fœtida
+86,Asar.,Asarum Europæum
+87,Asc-c.,Asclepias Cornuti (Syriaca)
+88,Asc-t.,Asclepias Tuberosa
+89,Asim.,Asimina Triloba
+90,Aspar.,Asparagus Officinalis
+91,Astac.,Astacus Fluviatilis
+92,Aster.,Asterias Rubens
+93,Atro-s.,Atropia Sulphurica
+94,Atro.,Atropinium
+95,Aur-a.,Aurum Arsenicum
+96,Aur-i.,Aurum Iodatum
+97,Aur-m-n.,Aurum Muriaticum Natronatum
+98,Aur-m.,Aurum Muriaticum
+99,Aur-s.,Aurum Sulphuratum
+100,Aur.,Aurum Metallicum
+101,Bad.,Badiaga
+102,Bals.,Balsamum Peruvianum
+103,Bapt.,Baptisia Tinctoria
+104,Bar-ac.,Baryta Acetica
+105,Bar-c.,Baryta Carbonica
+106,Bar-i.,Baryta Iodata
+107,Bar-m.,Baryta Muriatica
+108,Bart.,Bartfelder (acid spring)
+109,Bell-p.,Bellis Perennis
+110,Bell.,Belladonna
+111,Benz-ac.,Benzoic Acid.
+112,Benz-n.,Benzinum Nitricum
+113,Benz.,Benzinum
+114,Berb.,Berberis Vulgaris
+115,Bism-ox.,Bismuthum Oxidum
+116,Blat.,Blatta Americana
+117,Blatta.,Blatta Orientalis
+118,Bol.,Boletus Laricis
+119,Bor-ac.,Boracicum Acidum
+120,Bor.,Borax
+121,Both.,Bothrops Lanceolatus
+122,Bov.,Bovista
+123,Brach.,Brachyglottis Repens
+124,Brom.,Bromium
+125,Bruc.,Brucea Antidysenterica
+126,Bry.,Bryonia Alba
+127,Bufo-s.,Bufo Sahytiensis
+128,Bufo.,Bufo Rana.
+129,Cact.,Cactus Grandiflorus
+130,Cadm.,Cadmium Sulphuratum
+131,Cahin.,Cahinca
+132,Cain.,Cainca
+133,Caj.,Cajuputum
+134,Calad.,Caladium Seguinum
+135,Calc-ac.,Calcarea Acetica
+136,Calc-ar.,Calcarea Arsenica
+137,Calc-caust.,Calcarea Caustica
+138,Calc-f.,Calcarea Fluorata
+139,Calc-i.,Calcarea Iodata
+140,Calc-p.,Calcarea Phosphorica
+141,Calc-s.,Calcarea Sulphurica
+142,Calc-sil.,Calcarea Silicata
+143,Calc.,Calcarea Carbonica
+144,Calen.,Calendula Officinalis
+145,Calli.,Calliandra Houstoni
+146,Calo.,Calotropis Gigantea
+147,Calt.,Caltha Palustris
+148,Camph.,Camphora Officinarum
+149,Canch.,Canchalagua
+150,Cann-i.,Cannabis Indica
+151,Cann-s.,Cannabis Sativa
+152,Canth.,Cantharis
+153,Caps.,Capsicum
+154,Carb-ac.,Carbolic Acid.
+155,Carb-an.,Carbo Animalis
+156,Carb-h.,Carboneum Hydrogenisatum
+157,Carb-o.,Carboneum Oxygenisatum
+158,Carb-s.,Carboneum Sulphuratum
+159,Carb-v.,Carbo Vegetabilis
+160,Card-b.,Carduus Benedictus
+161,Card-m.,Carduus Marianus
+162,Carl.,Carlsbad
+163,Casc.,Cascarilla
+164,Cast-eq.,Castor Equi
+165,Cast-v.,Castanea Vesca
+166,Cast.,Castoreum
+167,Caul.,Caulophyllum Thalictroides
+168,Caust.,Causticum
+169,Cean.,Ceanothus Americanus
+170,Cedr.,Cedron
+171,Cench.,Cenchris Contortrix
+172,Cent.,Centaurea Tagana
+173,Cer-s.,Cereus Serpentaria
+174,Cere-b.,Cereus Bonplandii
+175,Cet.,Cetrararia Islandica
+176,Cham.,Chamomilla
+177,Chel.,Chelidonium Majus
+178,Chen-an.,Chenopodium Anthelminticum
+179,Chen-v.,Chenopodium Vulvaria
+180,Chen.,Chenopodium Glauci Aphis
+181,Chim-m.,Chimaphila Maculata
+182,Chim.,Chimaphila Umbellata
+183,Chin-a.,Chininum Arsenicosum
+184,Chin-b.,Chininum Brom.
+185,Chin-s.,Chininum Sulphuricum
+186,Chin.,China Officinalis
+187,Chion.,Chionanthus Virginica
+188,Chlf.,Chloroformium
+189,Chlol.,Chloralum
+190,Chlor.,Chlorum
+191,Chol.,Cholesterinum
+192,Chr-ac.,Chromicum Acidum
+193,Chr-ox.,Chromicum Oxydatum
+194,Cic.,Cicuta Virosa
+195,Cimic.,Cimicifuga Racemosa
+196,Cimx.,Cimex
+197,Cina.,Cina
+198,Cinch-b.,Cinchona Boliviana
+199,Cinch.,Cinchonium Sulphuricum
+200,Cinnam.,Cinnamomum
+201,Cinnb.,Cinnabaris
+202,Cist.,Cistus Canadensis
+203,Cit-ac.,Citricum Acidum
+204,Cit-l.,Citrus Limonum
+205,Cit-v.,Citrus Vulgaris
+206,Clem.,Clematis Erecta
+207,Cob.,Cobaltum
+208,Coc-c.,Coccus Cacti
+209,Coca.,Coca
+210,Cocain-m.,Cocainum Muriaticum
+211,Cocc-s.,Coccinella Septempunctata
+212,Cocc.,Cocculus Indicus
+213,Coch.,Cochlearia Armoracia
+214,Cod.,Codeinum
+215,Coff-t.,Coffea Tosta
+216,Coff.,Coffea Cruda
+217,Colch.,Colchicum Autumnale
+218,Coll.,Collinsonia Canadensis
+219,Coloc.,Colocynthis
+220,Colos.,Colostrum
+221,Com.,Comocladia Dentata
+222,Con.,Conium Maculatum
+223,Cond.,Cundurango
+224,Conv-d.,Convolvulus Duartinus
+225,Conv.,Convallaria Majalis
+226,Cop.,Copaiva Officinalis
+227,Cor-r.,Corallium Rubrum
+228,Cori-r.,Coriaria Ruscifolia
+229,Corn-f.,Cornus Florida
+230,Corn-s.,Cornus Seriea
+231,Corn.,Cornus Circinata
+232,Cot.,Cotyledon Umbilicus
+233,Croc.,Crocus Sativus
+234,Crot-c.,Crotalus Cascavella
+235,Crot-h.,Crotalus Horridus
+236,Crot-t.,Croton Tiglium
+237,Cub.,Cubeba Officinalis
+238,Culx.,Culex Moscæ
+239,Cupr-ac.,Cuprum Aceticum
+240,Cupr-ar.,Cuprum Arsenicosum
+241,Cupr-n.,Cuprum Nitricum
+242,Cupr-s.,Cuprum Sulphuricum
+243,Cupr.,Cuprum Metallicum
+244,Cur.,Curare
+245,Cycl.,Cyclamen Europæum
+246,Cypr.,Cypripedium Pubescens
+247,Daph.,Daphne Indica
+248,Der.,Derris Pinnata
+249,Dig.,Digitalis Purpurea
+250,Dios.,Dioscorea Villosa
+251,Dirc.,Dirca Palustris
+252,Dol.,Dolichos Pruriens
+253,Dor.,Doryphora
+254,Dros.,Drosera Rotundifolia
+255,Dub.,Duboisinum
+256,Dulc.,Dulcamara
+257,Echi.,Echinacea Angustifolia
+258,Elaps.,Elaps Corallinus
+259,Elat.,Elaterium
+260,Epig.,Epigea Repens
+261,Equis.,Equisetum Hyemale
+262,Erech.,Erechthites Hieracifolia
+263,Erig.,Erigeron Canadense
+264,Ery-a.,Eryngium Aquaticum
+265,Ether.,Ether
+266,Eucal.,Eucalyptus Globulus
+267,Eug.,Eugenia Jambos
+268,Euon.,Euonymus Europæus
+269,Eup-per.,Eupatorium Perfoliatum
+270,Eup-pur.,Eupatorium Purpureum
+271,Eupho.,Euphorbium
+272,Euphr.,Euphrasia Officinalis
+273,Eupi.,Eupion
+274,Fago.,Fagopyrum
+275,Ferr-ac.,Ferrum Aceticum
+276,Ferr-ar.,Ferrum Arsenicosum
+277,Ferr-i.,Ferrum Iodatum
+278,Ferr-m.,Ferrum Muriaticum
+279,Ferr-ma.,Ferrum Magneticum
+280,Ferr-p.,Ferrum Phosphoricum
+281,Ferr-pic.,Ferrum Picricum
+282,Ferr-s.,Ferrum Sulphuricum
+283,Ferr.,Ferrum Metallicum
+284,Fil.,Filix Mas
+285,Fl-ac.,Fluoricum Acidum
+286,Form.,Formica Rufa
+287,Frag-v.,Fragaria Vesca
+288,Gad.,Gadus Morrhua
+289,Gall-ac.,Gallicum Acidum
+290,Gamb.,Gambogia
+291,Gels.,Gelsemium Sempervirens
+292,Genist.,Genista Tinctoria
+293,Gent-c.,Gentiana Cruciata
+294,Gent-l.,Gentiana Lutea
+295,Ger.,Geranium Maculatum
+296,Get.,Gettisburg Water
+297,Gins.,Ginseng
+298,Gland.,Glanderine
+299,Glon.,Glonoin
+300,Gnaph.,Gnaphalium
+301,Goss.,Gossypium Herbaceum
+302,Gran.,Granatum Punica
+303,Graph.,Graphites
+304,Grat.,Gratiola Officinalis
+305,Grin.,Grindelia Robusta
+306,Gua.,Guaco
+307,Guai.,Guaiacum
+308,Guano.,Guano Australis
+309,Guar.,Guarana
+310,Guare.,Guarea
+311,Gymn.,Gymnocladus
+312,Hæm.,Hæmatoxylon
+313,Ham.,Hamamelis Virginica
+314,Hecla.,Hecla Lava
+315,Hedeo.,Hedeoma Pulegioides
+316,Hell.,Helleborus Niger
+317,Helod.,Heloderma
+318,Helon.,Helonias Dioica
+319,Hep.,Hepar Sulphuris Calcareum
+320,Hipp.,Hippomanes
+321,Hippoz.,Hippozænium
+322,Hom.,Homarus
+323,Hura.,Hura Braziliensis
+324,Hydr-ac.,Hydrocyanicum Acidum
+325,Hydr.,Hydrastis Canadensis
+326,Hydrang.,Hydrangea Arborescens
+327,Hydrc.,Hydrocotyle Asiatica
+328,Hyos.,Hyoscyamus Niger
+329,Hyper.,Hypericum Perforatum
+330,Iber.,Iberis Amara
+331,Ictod.,Ictodes Fœtida
+332,Ign.,Ignatia Amara
+333,Ill.,Illicium Anisatum
+334,Ind.,Indium Metallicum
+335,Indg.,Indigo
+336,Ing.,Ingluvin
+337,Inul.,Inula Helenium
+338,Iod.,Iodium
+339,Iodof.,Iodoformum
+340,Ip.,Ipecacuanha
+341,Ipom.,Ipomia Purpurea
+342,Ir-fl.,Iris Florentina
+343,Ir-fœ.,Iris Fœtidissima
+344,Ir-g.,Iris Germanica
+345,Iridium,Iridium
+346,Iris.,Iris Versicolor
+347,Jab.,Jaborandi
+348,Jac-c.,Jacaranda Caroba
+349,Jac.,Jacaranda Gualandai
+350,Jal.,Jalapa
+351,Jatr.,Jatropha Curcas
+352,Jug-c.,Juglans Cinerea
+353,Jug-r.,Juglans Regia
+354,Junc.,Juncus Effusus
+355,Juni.,Juniperus Virginiana
+356,Kali-a.,Kali Aceticum
+357,Kali-ar.,Kali Arsenicosum
+358,Kali-bi.,Kali Bichromicum
+359,Kali-br.,Kali Bromatum
+360,Kali-c.,Kali Carbonicum
+361,Kali-chl.,Kali Chloricum
+362,Kali-cy.,Kali Cyanatum
+363,Kali-fer.,Kali Ferrocyanicum
+364,Kali-i.,Kali Iodatum
+365,Kali-m.,Kali Muriaticum
+366,Kali-ma.,Kali Manganicum
+367,Kali-n.,Kali Nitricum
+368,Kali-ox.,Kali Oxalicum
+369,Kali-p.,Kali Phosphoricum
+370,Kali-s.,Kali Sulphuricum
+371,Kalm.,Kalmia Latifolia
+372,Kaol.,Kaolin
+373,Kino.,Kino
+374,Kiss.,Kissingen
+375,Kreos.,Kreosotum
+376,Lac-c.,Lac Caninum
+377,Lac-d.,Lac Defloratum
+378,Lac-f.,Lac Felinum
+379,Lach.,Lachesis
+380,Lachn.,Lachnanthes Tinctoria
+381,Lact-ac.,Lactic Acid.
+382,Lact.,Lactuca Virosa
+383,Lam.,Lamium Album
+384,Lap-a.,Lapis Albus
+385,Lappa-a.,Lappa Arctium
+386,Lappa-m.,Lappa Major
+387,Lat-m.,Latrodectus Mactans
+388,Lath.,Lathyrus Sativus
+389,Laur.,Laurocerasus
+390,Lec.,Lecithin
+391,Led.,Ledum Palustre
+392,Lem-m.,Lemna Minor
+393,Lepi.,Lepidium Bonariense
+394,Lept.,Leptandra Virginica
+395,Lil-t.,Lilium Tigrinum
+396,Linu-c.,Linum Cathar
+397,Lith-m.,Lithium Muriaticum
+398,Lith.,Lithium Carbonicum
+399,Lob-c.,Lobelia Cardinalis
+400,Lob-s.,Lobelia Syphilitica
+401,Lob.,Lobelia Inflata
+402,Lup.,Lupulus
+403,Lyc.,Lycopodium Clavatum
+404,Lycpr.,Lycopersicum
+405,Lycps.,Lycopus Virginicus
+406,Lyss.,Lyssin (Hydrophobinum)
+407,Mag-arct.,Magnetis Polus Arcticus
+408,Mag-aust.,Magnetis Polus Australis
+409,Mag-c.,Magnesia Carbonica
+410,Mag-m.,Magnesia Muriatica
+411,Mag-p-a.,Magnetis Poli. Ambo.
+412,Mag-p.,Magnesia Phosphorica
+413,Mag-s.,Magnesia Sulphurica
+414,Maland.,Malandrinum
+415,Malar.,Malaria Officinalis
+416,Manc.,Mancinella (Hippomanes)
+417,Mang-m.,Manganum Muriaticum
+418,Mang.,Manganum
+419,Med.,Medorrhinum
+420,Meli.,Melilotus Alba
+421,Menis.,Menispermum
+422,Ment.,Mentha Piperita
+423,Meny.,Menyanthes
+424,Meph.,Mephitis
+425,Merc-ac.,Mercurius Aceticus
+426,Merc-c.,Mercurius Corrosivus
+427,Merc-cy.,Mercurius Cyanatus
+428,Merc-d.,Mercurius Dulcis
+429,Merc-i-f.,Mercurius Iodatus Flavus
+430,Merc-i-r.,Mercurius Iodatus Ruber
+431,Merc-n.,Mercurius Nitrosus
+432,Merc-p-r.,Mercurius Præcipitatus Ruber
+433,Merc-sul.,Mercurius Sulphuricus
+434,Merc.,Mercurius Vivus
+435,Merl.,Mercurialis
+436,Mez.,Mezereum
+437,Mill.,Millefolium
+438,Mit.,Mitchella Repens
+439,Morph.,Morphinum
+440,Mosch.,Moschus
+441,Mur-ac.,Muriaticum Acidum
+442,Murx.,Murex
+443,Mygal.,Mygale Lasiodora
+444,Myos.,Myosotis
+445,Myric.,Myrica Cerifera
+446,Myris.,Myristica Sebifera
+447,Myrt.,Myrtus Communis
+448,Naja.,Naja Tripudia
+449,Naph.,Naphthalin
+450,Narcot.,Narcotinum
+451,Nat-a.,Natrum Arsenicatum
+452,Nat-ac.,Natrum Aceticum
+453,Nat-c.,Natrum Carbonicum
+454,Nat-h.,Natrum Hypochlorosum
+455,Nat-m.,Natrum Muriaticum
+456,Nat-n.,Natrum Nitricum
+457,Nat-p.,Natrum Phosphoricum
+458,Nat-s.,Natrum Sulphuricum
+459,Nicc-s.,Niccolum Sulph.
+460,Nicc.,Niccolum
+461,Nit-ac.,Nitricum Acidum
+462,Nit-m-ac.,Nitro Muriatic Acid.
+463,Nit-s-d.,Nitri Spiritus Dulcis
+464,Nitro-o.,Nitrogenium Oxygenatum
+465,Nuph.,Nuphar Luteum
+466,Nux-j.,Nux Juglans
+467,Nux-m.,Nux Moschata
+468,Nux-v.,Nux Vomica
+469,Nym.,Nymphæa Odorata
+470,Oci.,Ocimum Canum
+471,Œna.,Œnanthe Crocata
+472,Ol-an.,Oleum Animale
+473,Ol-j.,Oleum Jecoris Aselli
+474,Olnd.,Oleander
+475,Onos.,Onosmodium
+476,Op.,Opium
+477,Orig.,Origanum Majorana
+478,Osm.,Osmium
+479,Ov.,Ovinine
+480,Ox-ac.,Oxalicum Acidum
+481,Oxyt.,Oxytropis Lamberti
+482,Ozone.,Ozone (Oxygenium)
+483,Pæon.,Pæonia Officinalis
+484,Pall.,Palladium
+485,Par.,Paris Quadrifolia
+486,Pareir.,Pareira Brava
+487,Paull.,Paullinia Pinnata
+488,Ped.,Pediculus Capitis
+489,Pen.,Penthorum
+490,Per.,Persica
+491,Peti.,Petiveria
+492,Petr.,Petroleum
+493,Petros.,Petroselinum
+494,Ph-ac.,Phosphoricum Acidum
+495,Phal.,Phallus Impudicus
+496,Phase.,Phaseolus Nanus
+497,Phel.,Phellandrium
+498,Phos.,Phosphorus
+499,Phys.,Physostigma
+500,Phyt.,Phytolacca Decandra
+501,Pic-ac.,Picricum Acidum
+502,Pimp.,Pimpinella Saxifraga
+503,Pin-s.,Pinus Sylvestris
+504,Pip-m.,Piper Methysticum
+505,Pip-n.,Piper Nigrum
+506,Plan.,Plantago Major
+507,Plat-m.,Platinum Muriaticum
+508,Plat.,Platinum Metallicum
+509,Plb.,Plumbum Metallicum
+510,Plect.,Plectranthus
+511,Plumbg.,Plumbago Littoralis
+512,Podo.,Podophyllum Peltatum
+513,Polyg-h.,Polygonum Hydropiperoides
+514,Pop-t.,Populus Tremuloides
+515,Poth.,Pothos Fœtidus
+516,Prun-p.,Prunus Padus
+517,Prun-s.,Prunus Spinosa
+518,Psor.,Psorinum
+519,Ptel.,Ptelea Trifoliata
+520,Puls-n.,Pulsatilla Nuttaliana
+521,Puls.,Pulsatilla Nigricans
+522,Pulx.,Pulex Irritans
+523,Pyrog.,Pyrogenium
+524,Pyrus.,Pyrus Americana
+525,Rad.,Radium
+526,Ran-a.,Ranunculus Acris
+527,Ran-b.,Ranunculus Bulbosus
+528,Ran-s.,Ranunculus Sceleratus
+529,Raph.,Raphanus
+530,Rat.,Ratanhia
+531,Rheum.,Rheum
+532,Rhod.,Rhododendron
+533,Rhus-a.,Rhus aromatica
+534,Rhus-g.,Rhus Glabra
+535,Rhus-r.,Rhus Radicans
+536,Rhus-t.,Rhus Toxicodendron
+537,Rhus-v.,Rhus Venenata
+538,Rob.,Robinia Pseudacacia
+539,Rumx.,Rumex Crispus
+540,Ruta.,Ruta Graveolens
+541,Sabad.,Sabadilla
+542,Sabal.,Sabal Serrulata
+543,Sabin.,Sabina
+544,Sac-l.,Saccharum Lactis
+545,Sacc.,Saccharum Album
+546,Sal-ac.,Salicylicum Acidum
+547,Sal-n.,Salix Niger
+548,Salam.,Salamander
+549,Samb.,Sambucus Nigra
+550,Sang-n.,Sanguinaria Nitrica
+551,Sang.,Sanguinaria Canadensis
+552,Sanic.,Sanicula Aqua
+553,Sant.,Santoninum
+554,Sarr.,Sarracenia Purpurea
+555,Sars.,Sarsaparilla
+556,Scut.,Scutellaria Lateriflora
+557,Sec.,Secale Cornutum
+558,Sel.,Selenium
+559,Senec.,Senecio Aureus
+560,Seneg.,Senega
+561,Senn.,Senna
+562,Sep.,Sepia
+563,Serp.,Serpentaria
+564,Sil.,Silicea
+565,Sin-a.,Sinapis Alba
+566,Sin-n.,Sinapis Nigra
+567,Sol-m.,Solanum Mammosum
+568,Sol-n.,Solanum Nigrum
+569,Sol-o.,Solanum Oleraceum
+570,Sol-t-æ.,Solanum Tuberosum Ægrotans
+571,Sol-v.,Solidago Virg. aur.
+572,Spig-m.,Spigelia Marilandica
+573,Spig.,Spigelia Anthelmia
+574,Spira.,Spiranthes
+575,Spong.,Spongia Tosta
+576,Squil.,Squilla hispanica
+577,Stach.,Stachys Betonica
+578,Stann.,Stannum Metallicum
+579,Staph.,Staphysagria
+580,Stel.,Stellaria Media
+581,Stict.,Sticta Pulmonaria
+582,Still.,Stillingia Sylvatica
+583,Stram.,Stramonium
+584,Stront.,Strontium
+585,Stroph.,Strophanthus Hispidus
+586,Stry.,Strychninum
+587,Sul-ac.,Sulphuricum Acidum
+588,Sul-i.,Sulphur Iodatum
+589,Sulph.,Sulphur
+590,Sumb.,Sumbul
+591,Sym-r.,Symphoricarpus Racemosus
+592,Symph.,Symphytum Officinale
+593,Syph.,Syphilinum
+594,Tab.,Tabacum
+595,Tanac.,Tanacetum Vulgare
+596,Tann.,Tanninum
+597,Tarax.,Taraxacum
+598,Tarent-c.,Tarentula Cubensis
+599,Tarent.,Tarentula Hispanica
+600,Tart-ac.,Tartaricum Acid.
+601,Tax.,Taxus Baccata
+602,Tell.,Tellurium
+603,Tep.,Teplitz
+604,Ter.,Terebinthina
+605,Teucr.,Teucrium Marum Verum
+606,Thal.,Thallium
+607,Thea.,Thea Sinensis
+608,Ther.,Theridion
+609,Thlaspi.,Thlaspi Bursa Pastoris
+610,Thuj.,Thuja Occidentalis
+611,Til.,Tilia Europœa
+612,Tong.,Tongo
+613,Trif-p.,Trifolium Pratense
+614,Tril.,Trillium Pendulum
+615,Trio.,Triosteum Perfoliatum
+616,Trom.,Trombidium Muscæ Domesticæ
+617,Tub.,Tuberculinum
+618,Tus-f.,Tussilago Fragrans
+619,Tus-p.,Tussilago Petasites
+620,Upa.,Upas Tiente
+621,Uran.,Uranium Nitricum
+622,Urt-u.,Urtica Urens
+623,Ust.,Ustilago Maydis
+624,Uva.,Uva Ursi
+625,Vac.,Vaccininum
+626,Valer.,Valeriana
+627,Vario.,Variolinum
+628,Verat-v.,Veratrum Viride
+629,Verat.,Veratrum Album
+630,Verb.,Verbascum Thapsus
+631,Vesp.,Vespa Crabro
+632,Vib.,Viburnum Opulus
+633,Vinc.,Vinca Minor
+634,Viol-o.,Viola Odorata
+635,Viol-t.,Viola Tricolor
+636,Vip.,Vipera
+637,Visc.,Viscum Album
+638,Wies.,Wiesbaden
+639,Wild.,Wildbad
+640,Wye.,Wyethia Helenioides
+641,Xan.,Xanthoxylum Fraxineum
+642,Yuc.,Yucca
+643,Zinc-ac.,Zincum Aceticum
+644,Zinc-c.,Zincum Cyanatum
+645,Zinc-m.,Zincum Muriaticum
+646,Zinc-ox.,Zincum Oxydatum
+647,Zinc-s.,Zincum Sulphuricum
+648,Zinc.,Zincum Metallicum
+649,Zing.,Zingiber
+650,Ziz.,Zizia Aurea

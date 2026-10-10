@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --paper-bg: #FBFBF9;
+    --paper-card: #FFFFFF;
+    --ink-main: #18181B;
+    --border-hairline: #E5E2D8;
+  }
+
+  body {
+    background-color: var(--paper-bg);
+    color: var(--ink-main);
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Archival paper grid texture effect */
+  .paper-texture {
+    background-color: #FBFBF9;
+    background-image: radial-gradient(#E8E5DC 0.75px, transparent 0.75px);
+    background-size: 24px 24px;
+  }
+
+  /* Refined, thin editorial scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #D8D4C7;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #B8B3A3;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Subtle archival line border */
+.border-archival {
+  border-color: #E5E2D8;
+}
+
+.border-archival-dark {
+  border-color: #D2CDC0;
+}

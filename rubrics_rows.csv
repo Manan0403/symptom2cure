@@ -1,0 +1,156 @@
+rubric_id,parent_id,name
+1,,MIND
+2,1,ABANDONED
+3,2,morning
+4,2,evening
+5,2,open air amel
+6,2,"waking, on"
+7,2,sensation of isolation
+8,1,ABRUPT
+9,1,ABSENT-MINDED
+10,,HEARING
+11,10,ACUTE
+12,11,morning
+13,11,evening
+14,13,"bed, in"
+15,13,on falling asleep
+16,11,night
+17,11,"bed, in"
+18,11,"chill, during"
+19,11,"cracking in ears, preceded by"
+20,11,"heat, during"
+21,11,"labor pains, during"
+22,11,"menses, during"
+23,11,"music, to"
+24,23,during menses
+25,23,organ
+26,23,piano
+27,23,violin
+28,23,amel.
+29,11,"noises, to"
+30,29,cause nausea
+31,29,"perspiration, during"
+32,29,rumpling of paper
+33,29,scratching on linen and silk
+34,11,"perspiration, during"
+35,11,"sleep, during"
+36,11,sounds of a hammer
+37,36,"vehicles, tho' deaf to voices"
+38,36,affect the teeth
+39,36,long retained
+40,11,"step, every"
+41,11,voices and talking
+42,41,her own
+43,42,seems very loud
+44,11,"waking, on"
+45,11,water running
+46,10,"DISTANT, sounds seem"
+47,46,voices seem
+48,47,his own voice
+49,10,ILLUSIONS
+50,49,as if tone came from another world
+51,49,sounds appear to come from left side when they really come from the right
+52,10,IMPAIRED
+53,52,right
+54,53,then left
+55,52,left
+56,55,then right
+57,52,morning
+58,52,forenoon
+59,58,11 a.m.
+60,58,lasting till 8 p.m.
+61,52,afternoon
+62,61,with pain in the ear
+63,52,evening
+64,63,9 p.m.
+65,52,night
+66,52,"air, open, agg."
+67,66,amel.
+68,52,alternating with eye symptoms
+69,68,obscuration of sight
+70,68,otorrhœa
+71,52,bending head backward amel.
+72,52,blowing nose amel.
+73,52,"burning and stinging, after"
+74,52,catarrh of eustachian tube
+75,52,change of clothing
+76,52,changes of weather agg.
+77,52,"cold, after a"
+78,52,cold wet weather
+79,52,"concussions, from"
+80,52,confusion of sounds
+81,52,"cough, during"
+82,81,amel.
+83,52,damp weather agg.
+84,52,"dinner, after"
+85,52,"direction of sound, cannot tell"
+86,52,"distance, when at a"
+87,86,amel.
+88,86,all sounds seem far off
+89,52,"earwax, after removal of, amel."
+90,52,eating agg.
+91,52,enlarged tonsils
+92,52,"fright, after"
+93,52,"heat, during"
+94,52,intermittent
+95,52,"leaf or membrane, like, before the ear"
+96,95,shaking head and boring in ear amel.
+97,52,"measles, after"
+98,52,mechanical injuries (See Concussion)
+99,52,"menses, before"
+100,99,during
+101,52,"mercury, abuse of"
+102,52,"mortification, after"
+103,52,"nitric acid, abuse of"
+104,52,noise amel.
+105,52,old people
+106,52,"overheated, from becoming"
+107,52,"paralysis of the auditory nerve, from"
+108,52,periodic
+109,52,"pregnancy, during"
+110,52,pressing on ear amel.
+111,52,"quinine, after abuse of"
+112,52,"reading aloud, while"
+113,52,"report, relieved after"
+114,113,"loud, followed by deafness"
+115,52,riding in a carriage amel.
+116,52,"room, in a"
+117,52,rubbing amel.
+118,52,"scarlet fever, after"
+119,52,sexual excesses
+120,52,"singing, after"
+121,52,stooping agg.
+122,52,"storm, before"
+123,52,sudden
+124,52,suppressed intermittents
+125,124,eruptions about the head
+126,52,"swallowing, on"
+127,126,amel.
+128,52,"typhoid, after"
+129,52,"voice, the human"
+130,129,"except, for"
+131,52,"walking, while"
+132,131,in the wind
+133,52,"warm from walking, on becoming"
+134,133,amel.
+135,52,warm room agg.
+136,135,amel.
+137,52,washing agg.
+138,52,working in water
+139,52,yawning amel.
+140,10,LOST
+141,140,left
+142,140,"morning, after rising"
+143,140,afternoon
+144,140,"evening, 9 p.m., on lying down agg."
+145,140,blowing nose
+146,140,boring finger amel.
+147,140,"convulsions, after"
+148,140,"dinner, during"
+149,140,"leaflet before, sensation of"
+150,140,"loud sounds, followed by"
+151,140,"menses, during"
+152,140,riding in a wagon amel.
+153,140,"scarlet fever, after"
+154,140,"stopped sensation, with"
+155,140,"waking, on"
