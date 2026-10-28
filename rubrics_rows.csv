@@ -1,13 +1,4 @@
 rubric_id,parent_id,name
-1,,MIND
-2,1,ABANDONED
-3,2,morning
-4,2,evening
-5,2,open air amel
-6,2,"waking, on"
-7,2,sensation of isolation
-8,1,ABRUPT
-9,1,ABSENT-MINDED
 10,,HEARING
 11,10,ACUTE
 12,11,morning
@@ -68,7 +59,7 @@ rubric_id,parent_id,name
 67,66,amel.
 68,52,alternating with eye symptoms
 69,68,obscuration of sight
-70,68,otorrhœa
+70,68,otorrh a
 71,52,bending head backward amel.
 72,52,blowing nose amel.
 73,52,"burning and stinging, after"
@@ -154,3 +145,2709 @@ rubric_id,parent_id,name
 153,140,"scarlet fever, after"
 154,140,"stopped sensation, with"
 155,140,"waking, on"
+36063,,COUGH
+36064,36063,DAYTIME
+36065,36064,amel.
+36066,36064,"day, every other, violent coughs"
+36067,36066,every third
+36068,36064,"expectoration copious, greenish, salty, agg. morning"
+36069,36064,"hour, at the same"
+36070,36064,"menses, before"
+36071,36064,"night, and"
+36072,36071,"expectoration, with"
+36073,36071,which makes boy quite breathless
+36074,36064,only
+36075,36074,"long, lasting spells, dry, short, violent, with much dyspnœa"
+36076,36074,or cough which wakens at night
+36077,36076,"morning after rising, and evening after lying down"
+36078,36076,only at night
+36079,36074,"morning on rising, continuing until lying down again"
+36080,36064,6 a.m. to 6 p.m.
+36081,36063,MORNING
+36082,36081,amel.
+36083,36081,"bath, after"
+36084,36081,"bed, in"
+36085,36081,daybreak amel.
+36086,36081,"dressing, while"
+36087,36081,"night, and"
+36088,36081,"rising, after"
+36089,36081,"sleep, on going to"
+36090,36081,"waking, on"
+36091,36081,6 a.m.
+36092,36081,6 to 7 a.m.
+36093,36081,6 a.m. to 6 p.m.
+36094,36081,6 to 8 or 9 a.m.
+36095,36081,7 a.m.
+36096,36081,7 to 10 a.m.
+36097,36081,8 a.m.
+36098,36081,8 to 9 a.m.
+36099,36081,9 a.m. until
+36100,36081,9 a.m.
+36101,36063,FORENOON
+36102,36101,waking
+36103,36102,after
+36104,36101,9 to 10 a.m.
+36105,36101,9 to 12 a.m.
+36106,36101,9 to 5 or 6 p.m.
+36107,36101,"10 a.m.; from rawness, in air passages while lying"
+36108,36101,10 to 12 a.m.
+36109,36101,11 a.m.
+36110,36101,"11 a.m., rush of blood to chest, from"
+36111,36101,"11 a.m.; dry cough from tickling behind upper half of sternum, while sitting bent forward"
+36112,36063,NOON
+36113,36112,"lying down, amel."
+36114,36112,"sleep, in"
+36115,36063,AFTERNOON
+36116,36115,"bath, after"
+36117,36115,"evening, until"
+36118,36115,"midnight, until"
+36119,36115,1 p.m. to 1 a.m.
+36120,36115,1 p.m.
+36121,36115,1-30 p.m.
+36122,36115,1 to 2 p.m.
+36123,36115,2 p.m.
+36124,36115,3 p.m.
+36125,36115,3 to 4 p.m.
+36126,36115,3 to 5 p.m.
+36127,36115,3 to 10 p.m.
+36128,36115,4 p.m.
+36129,36115,4 to 6 p.m.
+36130,36115,4 to 8 p.m.
+36131,36115,4 until bedtime
+36132,36115,4 p.m. until morning
+36133,36115,5 p.m.
+36134,36115,5 to 9 p.m.
+36135,36063,EVENING
+36136,36135,"bed, in"
+36137,36136,"menses, before"
+36138,36135,"going out, on"
+36139,36135,"midnight, until"
+36140,36139,after
+36141,36135,"sleep, after going to"
+36142,36141,on going to
+36143,36135,sunset to sunrise
+36144,36135,6 p.m.
+36145,36135,6-15 p.m.
+36146,36135,6-30 p.m.
+36147,36135,6 to 7 p.m.
+36148,36135,6 to 10 p.m.
+36149,36135,7 p.m.
+36150,36149,after
+36151,36135,7 or 8 p.m.
+36152,36135,7 p.m. to 1 a.m.
+36153,36135,7 to 8 p.m.
+36154,36135,7-30 p.m.
+36155,36135,8 p.m.
+36156,36135,8-30 p.m.
+36157,36135,8 to 9 p.m.
+36158,36135,8 to 11 p.m.
+36159,36135,9 p.m.
+36160,36159,to 4 a.m.
+36161,36159,"about, with fever, followed by burning heat of head, cramps in legs and feet, hands and arms and rapid pulse"
+36162,36159,till morning
+36163,36063,NIGHT
+36164,36163,only
+36165,36163,"perspiration, with"
+36166,36163,"rising, after"
+36167,36163,waking from the cough
+36168,36167,1 a.m.
+36169,36167,2 a.m.
+36170,36167,3 a.m.
+36171,36167,4 a.m.
+36172,36167,"4 a.m., until"
+36173,36163,midnight
+36174,36173,before
+36175,36173,10 p.m.
+36176,36175,to 1 p.m.
+36177,36173,10-30 p.m.
+36178,36173,11 p.m.
+36179,36173,11 p.m. to 3 a.m.
+36180,36173,11 p.m. to 12 p.m.
+36181,36180,to 1 a.m.
+36182,36173,11-30 p.m.
+36183,36173,after
+36184,36183,amel.
+36185,36184,3 a.m.
+36186,36183,"daybreak, until"
+36187,36183,"morning, until"
+36188,36183,"2 a.m., until"
+36189,36183,"3 a.m., until"
+36190,36183,"4 a.m., until"
+36191,36183,1 a.m.
+36192,36183,1 to 2 a.m.
+36193,36183,1 to 4 a.m.
+36194,36183,2 a.m.
+36195,36183,2 and 2-30 a.m.
+36196,36183,2 or 3 a.m.
+36197,36183,2 to 3 a.m.
+36198,36183,2 to 3-30 a.m.
+36199,36183,2 to 4 a.m.
+36200,36183,2 to 5 a.m.
+36201,36183,3 a.m.
+36202,36183,3 to 4 a.m.
+36203,36183,4 a.m.
+36204,36183,5 a.m.
+36205,36183,5-30 a.m.
+36206,36183,5 to 6 a.m.
+36207,36183,5 to 12 a.m.
+36208,36063,ACIDS agg.
+36209,36063,"ACRID fluid through posterior nares, sensation of, from"
+36210,36063,"AGITATION, from"
+36211,36063,"AIR, close, agg."
+36212,36211,cold
+36213,36212,amel.
+36214,36212,walking in
+36215,36211,damp cold
+36216,36211,draft of
+36217,36211,dry
+36218,36217,cold
+36219,36211,night
+36220,36211,open
+36221,36220,amel.
+36222,36220,walking in
+36223,36063,ALCOHOL
+36224,36063,"ANGER, from"
+36225,36063,ARMS becoming cold
+36226,36063,ASCENDING stairs
+36227,36063,ASTHMATIC
+36228,36063,AUTUMN
+36229,36228,and spring
+36230,36063,BARKING
+36231,36230,day and night
+36232,36230,morning
+36233,36230,evening
+36234,36230,night
+36235,36234,"11 p.m., wakens suddenly, face fiery red, crying"
+36236,36230,"deep breath, after"
+36237,36230,"dog, like a"
+36238,36230,"drinking cold water, amel."
+36239,36230,loud
+36240,36230,"sleep, during"
+36241,36063,BATHING agg.
+36242,36241,cold
+36243,36241,"chest, in cold water amel."
+36244,36063,"BED, in"
+36245,36244,changing position
+36246,36245,amel.
+36247,36244,"rising from, on"
+36248,36244,"warm, on becoming, in, agg. or excites"
+36249,36248,amel.
+36250,36248,evening
+36251,36063,BEER agg.
+36252,36063,BENDING head backward agg.
+36253,36252,forward agg.
+36254,36253,amel.
+36255,36252,forced to bend double
+36256,36063,"BLOOD, determination of, to chest, from"
+36257,36256,"rush of, to chest, 11 a.m."
+36258,36063,BRANDY
+36259,36063,BREAD
+36260,36259,black
+36261,36063,"BREAKFAST, before"
+36262,36261,during
+36263,36261,"after, amel."
+36264,36063,"BREATH, holding"
+36265,36264,want of
+36266,36063,BREATHING
+36267,36266,deep
+36268,36267,amel.
+36269,36267,"morning, after lying down"
+36270,36266,"deficient, being"
+36271,36270,night
+36272,36266,"irregular, from"
+36273,36063,BRIGHT objects
+36274,36063,BRONCHIAL
+36275,36063,BRUSHING teeth
+36276,36063,"BURNING, chest, in"
+36277,36276,larynx
+36278,36276,"throat-pit, from"
+36279,36276,"in trachea, from"
+36280,36063,"CARBON, as from vapor of"
+36281,36063,"CELLARS, air of"
+36282,36063,CHAGRIN and trouble
+36283,36063,CHICKEN-POX after
+36284,36063,"CHILL, before"
+36285,36284,during
+36286,36284,after
+36287,36063,CHOKING
+36288,36287,"morning, rising, after"
+36289,36287,evening
+36290,36287,night
+36291,36290,"midnight, about"
+36292,36287,"inspiration, from"
+36293,36287,"sleep, as soon as one falls into a sound"
+36294,36293,when lying on side
+36295,36063,CHOKING sensation; fauces from to bifurcation of bronchia
+36296,36063,"CHURCH, air of, agg."
+36297,36063,CLEANING the teeth
+36298,36063,"CLOCK, like tick of, in its regularity"
+36299,36063,CLOSING eyes at night excites cough
+36300,36063,"CLOTHING, tight, agg."
+36301,36063,COAL
+36302,36063,COFFEE agg.
+36303,36302,odor of
+36304,36063,"COITION, after"
+36305,36063,COLD air
+36306,36305,"becoming, on"
+36307,36306,arm or hand
+36308,36306,feet
+36309,36306,single part
+36310,36305,damp air
+36311,36305,drinks
+36312,36311,milk
+36313,36311,amel.
+36314,36305,dry air
+36315,36305,food
+36316,36305,"going from warm, to"
+36317,36305,"standing, cold water, in"
+36318,36305,"warm room, going from, to, or vice versa"
+36319,36305,wind on chest
+36320,36063,COMPANY
+36321,36063,CONCUSSIVE
+36322,36063,"CONSCIOUSNESS, loss of, with"
+36323,36063,CONSOLATION agg.
+36324,36063,CONSTANT
+36325,36324,day and night
+36326,36325,or night
+36327,36324,morning
+36328,36324,evening
+36329,36324,night
+36330,36329,lying down
+36331,36329,"sleep, on falling to"
+36332,36329,waking
+36333,36324,"lying agg., sitting up amel."
+36334,36333,amel.
+36335,36324,vomiting amel.
+36336,36063,"CONSTRICTION, larynx"
+36337,36336,"night, during sleep"
+36338,36336,"in first sleep, while lying on the side"
+36339,36336,eating
+36340,36336,"sleep, on going to"
+36341,36336,chest
+36342,36336,"trachea, from"
+36343,36063,CONTINUED coughing agg.
+36344,36063,CONTINUOUS
+36345,36063,"CONVULSIONS, with"
+36346,36063,CONVULSIVE
+36347,36063,COUGHING agg.
+36348,36063,COVERING
+36349,36063,"CRAMPS in chest, from"
+36350,36063,"CRAWLING, sensation of"
+36351,36350,"evening, bed, in"
+36352,36350,night
+36353,36352,"midnight, before"
+36354,36350,"air passages, in"
+36355,36350,bronchia
+36356,36350,chest
+36357,36350,larynx
+36358,36350,throat-pit
+36359,36350,"trachea, in"
+36360,36063,CROAKING
+36361,36360,daytime
+36362,36063,CROUPY
+36363,36362,morning
+36364,36362,evening
+36365,36362,night
+36366,36365,"midnight, after, agg."
+36367,36362,"eating, after"
+36368,36362,"expiration, on"
+36369,36362,"waking, only after"
+36370,36362,"winter, alternating with sciatica in summer"
+36371,36362,"with sopor, stertorous breathing and wheezing, with open mouth and head thrown back; the child starts up, kicks about, is on point of suffocating, turns black and blue in face, after which cough with rattling breathing sets in again, suffocations and paralysis, of lungs appear unavoidable"
+36372,36063,CROWING
+36373,36063,"CRUMB, feeling as of a, in larynx, from"
+36374,36063,CRYING agg.
+36375,36063,"CUTTING, stinging, in larynx, from"
+36376,36375,in thyroid gland
+36377,36063,DAMP room agg.
+36378,36063,"DANCING, after"
+36379,36063,"DEBAUCH, after"
+36380,36063,DEEP
+36381,36380,morning
+36382,36380,afternoon and evening
+36383,36380,evening
+36384,36380,"midnight, after"
+36385,36380,"inspiration, on"
+36386,36385,deep amel.
+36387,36380,lying amel.
+36388,36063,"DEEP enough, sensation as though he could not cough, to start mucus"
+36389,36063,DEEP-SOUNDING
+36390,36389,night
+36391,36063,"DENTITION, during"
+36392,36063,"DESCENDING, on"
+36393,36063,DIARRHŒA amel.
+36394,36063,DIFFICULT
+36395,36063,"DINNER, before"
+36396,36395,after
+36397,36396,"sleeping, when"
+36398,36063,DISTRACTING
+36399,36398,day and night
+36400,36063,DISTRESSING
+36401,36400,daytime
+36402,36400,"morning and evening, on going to sleep"
+36403,36063,"DOWN, sensation of, in throat-pit, from"
+36404,36063,DRAFT of air
+36405,36063,"DRINKING, after"
+36406,36405,amel.
+36407,36405,acids
+36408,36405,brandy
+36409,36405,beer
+36410,36405,cold fluids
+36411,36405,hurriedly
+36412,36405,milk
+36413,36063,"DRUNKARDS, of"
+36414,36063,DRY
+36415,36414,daytime
+36416,36415,lying down amel.
+36417,36415,"menses, before"
+36418,36415,"night, and"
+36419,36415,loose at night
+36420,36414,morning
+36421,36420,early
+36422,36420,loose in afternoon
+36423,36422,evening
+36424,36420,"menses, before"
+36425,36424,suppressed
+36426,36420,"rising, after"
+36427,36420,"waking, on"
+36428,36414,forenoon
+36429,36428,11 a.m.
+36430,36414,noon
+36431,36414,afternoon
+36432,36431,entering warm room
+36433,36431,"walking, while"
+36434,36431,1 p.m.
+36435,36431,3 p.m.
+36436,36431,4 p.m.
+36437,36431,5 p.m.
+36438,36414,evening
+36439,36438,entering warm room
+36440,36438,inspiration agg.
+36441,36438,loose in morning
+36442,36438,lying down
+36443,36442,amel.
+36444,36438,"midnight, until"
+36445,36438,"night, and can neither sleep nor lie down"
+36446,36438,"sleep, on going to"
+36447,36438,"smoking, from"
+36448,36438,6 p.m.
+36449,36438,7 p.m.
+36450,36414,night
+36451,36450,"falling asleep, on"
+36452,36450,"first, followed by profuse salty expectoration with pain as if something were torn loose from larynx"
+36453,36450,inspiration agg.
+36454,36450,loose by day
+36455,36450,lying agg.
+36456,36455,"on right side only, while"
+36457,36450,motion agg.
+36458,36450,sitting up amel.
+36459,36450,smoking amel.
+36460,36450,sunset to sunrise
+36461,36450,waking from sleep
+36462,36450,midnight
+36463,36462,"daybreak, until"
+36464,36462,lying on back
+36465,36464,on side amel.
+36466,36462,before
+36467,36466,"sleep, during"
+36468,36466,10-30 p.m.
+36469,36462,after
+36470,36469,loose
+36471,36469,1 to 2 a.m.
+36472,36469,2 a.m.
+36473,36469,3 a.m.
+36474,36469,"4 a.m., until"
+36475,36414,"air, from cold"
+36476,36475,dry cold air
+36477,36475,open air
+36478,36477,amel.
+36479,36475,going from warm room to
+36480,36414,"blood, with discharge of"
+36481,36480,ends in raising black blood
+36482,36414,"breath, sudden loss of, with"
+36483,36414,"chill, before"
+36484,36483,during
+36485,36483,after
+36486,36414,chronic dry cough in pining boys
+36487,36486,in scrofulous children
+36488,36414,"constant, almost"
+36489,36414,"constriction, throat from"
+36490,36414,"coryza, during"
+36491,36490,evening
+36492,36414,damp weather
+36493,36414,"dinner, after"
+36494,36493,amel.
+36495,36414,"drinking, after"
+36496,36495,loose after eating
+36497,36495,amel.
+36498,36495,"cold drinks, from"
+36499,36414,"dyspnœa, as from, day and night"
+36500,36414,"eating, from"
+36501,36500,night
+36502,36500,amel.
+36503,36414,"emaciated boys, in"
+36504,36414,"exertion, violent, from"
+36505,36414,"expectoration, morning, only in"
+36506,36505,"hawking, later copious green sputum"
+36507,36414,"expiration, after every, with flush of heat and sweat"
+36508,36414,"fever, during"
+36509,36508,"intermittent, before"
+36510,36414,"flatus, discharge up and down, amel. must sit up also"
+36511,36414,"gonorrhœa suppressed, after"
+36512,36414,"inspiration, on"
+36513,36512,deep
+36514,36512,"sleep, in"
+36515,36414,irritation in larynx
+36516,36414,"lying, while"
+36517,36516,amel.
+36518,36516,"back, on"
+36519,36518,midnight
+36520,36518,amel.
+36521,36516,"side, on, amel."
+36522,36521,"right, agg."
+36523,36521,"left, agg."
+36524,36414,"measles, after"
+36525,36524,"menses, before"
+36526,36525,morning
+36527,36524,during
+36528,36527,"profuse sweat, with"
+36529,36524,"suppressed, from"
+36530,36414,"motion, on"
+36531,36530,amel.
+36532,36414,reading aloud
+36533,36414,"rising, on"
+36534,36414,"room, heat of, agg."
+36535,36414,"scraping in larynx, from"
+36536,36414,"sitting, while"
+36537,36536,amel.
+36538,36414,"sleep, during"
+36539,36538,after every
+36540,36538,disturbing
+36541,36414,"smoke, from inhaling"
+36542,36414,"smoking, from"
+36543,36414,"sneezing, and"
+36544,36414,"spasmodic, exhausting especially in children, agg. night lying down and going to cold room to sleep"
+36545,36414,"stomach, as if from"
+36546,36414,"talking, on"
+36547,36414,"temperature, from change of"
+36548,36414,"tickling in larynx, from"
+36549,36414,"waking, on"
+36550,36414,walking
+36551,36550,"sharp, cold air, from"
+36552,36414,"warm room, on entering a"
+36553,36063,"DRYNESS air passages, from"
+36554,36553,chest
+36555,36553,fauces
+36556,36553,larynx
+36557,36556,morning
+36558,36556,dry spot
+36559,36553,"in trachea, from"
+36560,36063,"DUST, as from"
+36561,36560,in throat-pit
+36562,36561,trachea
+36563,36063,"EATING, from"
+36564,36563,until he vomits
+36565,36563,amel.
+36566,36563,hastily agg.
+36567,36563,highly-seasoned food agg.
+36568,36563,warm food
+36569,36063,"ELONGATED uvula, as from"
+36570,36569,morning
+36571,36063,ERUCTATIONS excite
+36572,36571,amel.
+36573,36063,"ERUPTIONS, alternating with"
+36574,36573,"suppressed, from"
+36575,36063,EXCITEMENT
+36576,36063,EXERTION
+36577,36576,violent
+36578,36576,mental
+36579,36063,EXHAUSTING
+36580,36579,daytime
+36581,36579,morning
+36582,36581,"going to sleep, on"
+36583,36581,"waking, after"
+36584,36579,noon
+36585,36579,evening
+36586,36585,"going to sleep, on"
+36587,36579,night
+36588,36587,"bed, in"
+36589,36587,sitting up amel.
+36590,36587,"sleep, disturbing"
+36591,36063,EXPECTORATION amel.
+36592,36063,EXPIRATION
+36593,36063,EXPLOSIVE
+36594,36593,evening
+36595,36593,"escape of fetid, pungent air, with"
+36596,36063,FASTING
+36597,36063,FAT food
+36598,36063,FATIGUING
+36599,36063,"FEARS to, and seems to avoid it as long as possible, children with bronchial catarrh"
+36600,36063,"FEATHER, as from"
+36601,36600,"sensation of, or awn of barley in trachea"
+36602,36063,"FEVER, during"
+36603,36602,"intermittent, before, in spells"
+36604,36603,after
+36605,36603,"suppressed, from"
+36606,36602,"remittent, during"
+36607,36602,"scarlet, after"
+36608,36063,"FILLING up, sensation as of, in throat, from"
+36609,36063,"FIRE, look into"
+36610,36063,"FISH, from eating"
+36611,36063,"FLATUS, passing, amel."
+36612,36063,"FLUIDS, loss of animal, from"
+36613,36063,FOG agg.
+36614,36063,FORCIBLE
+36615,36614,evening and night
+36616,36063,"FOREIGN body, sensation as of, in larynx"
+36617,36616,awn of barley swaying in larynx
+36618,36616,"sensation of, in trachea, from"
+36619,36063,FRETTING
+36620,36063,"FRIGHT, from"
+36621,36063,"FRIGHTENS them, weak, nervous children arouse with a dry, spasmodic cough, which causes them to cry out in terror"
+36622,36063,FROSTY weather amel.
+36623,36063,FRUIT agg.
+36624,36063,FULLNESS of chest
+36625,36624,morning
+36626,36063,GAGGING
+36627,36063,GASTRIC
+36628,36063,"GONORRHŒA, suppressed, after"
+36629,36063,"GOUT, before an attack of"
+36630,36063,GRASPING throat during
+36631,36630,"larynx involuntarily, at every cough, feels as though larynx would be torn"
+36632,36063,"GREASE, sensation as if throat irritated by smoke of rancid"
+36633,36063,GRIEF
+36634,36063,HACKING
+36635,36634,daytime
+36636,36634,morning
+36637,36636,"mucus, from"
+36638,36636,"rising, after"
+36639,36636,"talking, from"
+36640,36636,"waking, on"
+36641,36634,forenoon
+36642,36634,noon
+36643,36634,afternoon
+36644,36643,2 p.m.
+36645,36643,3 p.m.
+36646,36643,3 to 4 p.m.
+36647,36634,evening
+36648,36647,"bed, in"
+36649,36647,"lying down, after"
+36650,36649,amel.
+36651,36647,"smoking, from"
+36652,36647,warm room
+36653,36647,6 p.m.
+36654,36647,7 p.m.
+36655,36634,night
+36656,36655,and day
+36657,36655,smothered feeling
+36658,36655,"midnight, wakening"
+36659,36634,"air, open"
+36660,36659,amel.
+36661,36659,cold agg.
+36662,36634,"chill, during"
+36663,36634,"crawling in the larynx, from"
+36664,36634,deep inspiration
+36665,36634,"dinner, after"
+36666,36634,"dryness in larynx, from"
+36667,36634,"eating, while"
+36668,36667,after
+36669,36634,heat agg.
+36670,36634,"irritation in larynx, from"
+36671,36634,"lying down, while"
+36672,36634,"menses, at beginning of"
+36673,36634,motion
+36674,36634,"rawness in larynx, from"
+36675,36634,"rising, on"
+36676,36675,amel.
+36677,36634,"sleep, when going to"
+36678,36634,"smoking, from"
+36679,36634,"tickling in larynx, from"
+36680,36634,"waking, on"
+36681,36634,walking fast
+36682,36681,"open air, in"
+36683,36063,"HÆMORRHOIDS, after the appearance of"
+36684,36063,"HAIR, sensation of, in trachea"
+36685,36063,"HANDS, must hold chest with both, while"
+36686,36685,holding pit of stomach amel.
+36687,36686,abdomen amel.
+36688,36063,HARASSING
+36689,36063,HARD
+36690,36689,evening
+36691,36689,night
+36692,36691,"1 a.m., after"
+36693,36689,"smoking, while"
+36694,36689,"spells of, not ceasing until masses of offensive sputa are raised"
+36695,36063,HAWKING
+36696,36695,agg.
+36697,36063,"HEARTBURN, from"
+36698,36063,"HEART affections, with"
+36699,36063,"HEAT, after"
+36700,36699,"sensation of, bronchia"
+36701,36699,chest
+36702,36063,"HEATED, on becoming"
+36703,36063,HECTIC
+36704,36703,"suppressed intermittent, after"
+36705,36063,HISSING
+36706,36705,"hoarseness, with, raises hand to larynx, which is sensitive to touch"
+36707,36063,HOARSE
+36708,36707,morning
+36709,36707,evening
+36710,36709,until midnight
+36711,36707,night
+36712,36711,midnight
+36713,36712,"before, barking; 11 p.m."
+36714,36712,after
+36715,36714,barking 2 to 5 a.m.
+36716,36063,"HOLD, cough obliges him to, himself inwardly"
+36717,36063,HOLDS chest with hands
+36718,36063,HOLLOW
+36719,36718,daytime
+36720,36718,morning
+36721,36720,"bed, in"
+36722,36720,"rising, after"
+36723,36720,"waking, on"
+36724,36718,"noon, toward"
+36725,36718,evening
+36726,36725,"lying down, after"
+36727,36725,"midnight, until"
+36728,36718,night
+36729,36718,breathing deep amel.
+36730,36718,sitting up amel.
+36731,36718,stooping agg.
+36732,36063,"HUNGER, violent, with"
+36733,36732,from
+36734,36063,"HYSTERICAL attack of, followed by crying, night"
+36735,36734,women
+36736,36063,"ICE CREAM, at first amel., then agg."
+36737,36063,"ICY cold air, in air passages, sensation of, from"
+36738,36063,INABILITY to
+36739,36738,"pain, from"
+36740,36739,"in side, from"
+36741,36739,amel. by pressure of hand on pit of stomach
+36742,36063,INCESSANT
+36743,36063,INSPIRATION
+36744,36743,"crowing, violent, spasmodic cough, commencing with gasping for breath, and continuing with repeated crowing inspirations till face becomes black or purple and patient exhausted, agg. night and after a meal"
+36745,36743,deep
+36746,36063,"INTERMITTING 6 a.m., drinking cold water amel."
+36747,36063,INTERRUPTED
+36748,36747,"evening, smoking, from"
+36749,36747,"dinner, after"
+36750,36747,"infiltration of lower chest, from"
+36751,36063,"IRREPRESSIBLE, sudden, violent, in evening, while sitting"
+36752,36063,"IRRESISTIBLE, short, hawking"
+36753,36063,IRRITABLE
+36754,36753,"morning, rising, after"
+36755,36753,night
+36756,36063,"IRRITATING things, such as salt, wine, pepper, vinegar, immediately start cough"
+36757,36063,"IRRITATION in air passages, from"
+36758,36757,"morning, rising after"
+36759,36757,afternoon
+36760,36757,evening
+36761,36760,"bed, in"
+36762,36760,7-30 p.m.
+36763,36757,"night, on waking"
+36764,36757,increases the more one coughs
+36765,36757,bronchia
+36766,36765,right
+36767,36765,bifurcation of
+36768,36757,cardiac region
+36769,36757,"chest, in"
+36770,36769,lower
+36771,36769,upper
+36772,36757,"epigastrium, in, from"
+36773,36757,fauces
+36774,36757,"larynx in, from"
+36775,36774,morning
+36776,36774,afternoon
+36777,36776,2 p.m.
+36778,36774,"evening, bed, in"
+36779,36778,lying while
+36780,36774,"midnight, before"
+36781,36774,as if some fluid had gone the wrong way
+36782,36774,"eating, while"
+36783,36774,"sleep, in first, when lying on side"
+36784,36757,"lungs, in, from"
+36785,36784,right
+36786,36784,8 p.m.
+36787,36757,"throat-pit, in, from"
+36788,36757,"thyroid gland, in region of"
+36789,36757,"trachea, in, from"
+36790,36757,uvula elongated
+36791,36063,"ITCH, suppressed, after"
+36792,36063,ITCHING in chest
+36793,36792,extending through trachea to tip of nose
+36794,36792,in larynx
+36795,36792,"trachea, from"
+36796,36063,KNEELING with face toward pillow amel.
+36797,36063,"LABOR, following difficult, or abortion, with backache and sweat"
+36798,36063,"LACTATION, during"
+36799,36063,LAUGHING
+36800,36063,"LIE down, could not, sat bent forward"
+36801,36063,LIFTING heavy weight
+36802,36063,"LIQUIDS touching back part of mouth, from"
+36803,36802,"swallowing, night"
+36804,36063,LOOSE
+36805,36804,daytime
+36806,36805,dry at night
+36807,36805,"night, and"
+36808,36804,morning
+36809,36808,"tight, afternoon"
+36810,36804,forenoon
+36811,36804,afternoon
+36812,36811,dry in morning
+36813,36804,evening
+36814,36813,dry in morning
+36815,36813,7 p.m.
+36816,36804,night
+36817,36816,less free during day
+36818,36816,lying
+36819,36816,midnight
+36820,36819,after
+36821,36819,"sitting up, amel."
+36822,36804,"apyrexia, during"
+36823,36804,"breakfast, after"
+36824,36804,drinking cold water amel.
+36825,36804,"eating, after"
+36826,36825,dry after drinking
+36827,36804,"expectoration, without"
+36828,36827,exercise and warm room agg.
+36829,36804,"fever, during"
+36830,36804,"skin hanging in throat, sensation of, from"
+36831,36804,"tickling deep in chest, from"
+36832,36063,"LUMP in throat, from"
+36833,36063,LYING agg.
+36834,36833,daytime amel.
+36835,36833,noon amel.
+36836,36833,afternoon
+36837,36836,2 p.m.
+36838,36836,3 p.m.
+36839,36833,evening
+36840,36839,amel.
+36841,36839,must sit up
+36842,36833,night
+36843,36842,as soon as head touches pillow
+36844,36842,sleep amel.
+36845,36842,"waking, on"
+36846,36842,"midnight, wakens him"
+36847,36846,before
+36848,36846,after
+36849,36833,amel.
+36850,36833,"abdomen, on, amel."
+36851,36833,"back, on"
+36852,36851,amel.
+36853,36851,"better than either side, though worse lying on left side"
+36854,36833,"bed, agg."
+36855,36854,"must sit up, or sleep in chair from sense of suffocation"
+36856,36833,"face, great rattling of mucus, which appears to be low down in chest, while cough does not seem to reach there, only to throat-pit, consequently hard cough does not reach phlegm unless he lie on his face when he brings up a greenish-yellow or a pale greenish-yellow gelatinous mucus without taste"
+36857,36833,"first lying down, on"
+36858,36833,"hands and knees on, amel."
+36859,36833,"head, low, with"
+36860,36859,"raised, amel."
+36861,36833,long in one position (or sitting) agg.
+36862,36833,only on lying
+36863,36833,"only when lying down; was obliged to sit up and cough it out, then had rest"
+36864,36833,side
+36865,36864,right
+36866,36865,night
+36867,36864,left
+36868,36867,turning to right side amel.
+36869,36864,"painful, agg."
+36870,36833,"stomach, on, amel."
+36871,36063,"MANUAL labor, from"
+36872,36063,"MEASLES, during"
+36873,36872,daytime
+36874,36872,"eruption develops, which amel."
+36875,36872,after
+36876,36063,"MEAT, after"
+36877,36063,"MEDITATION, from"
+36878,36063,"MENSES, before"
+36879,36878,daytime
+36880,36878,morning
+36881,36880,early
+36882,36878,evening
+36883,36882,"bed, in, sitting up amel."
+36884,36878,hysterical
+36885,36878,"beginning of, at"
+36886,36878,during
+36887,36886,morning
+36888,36886,"evening, every"
+36889,36886,"coryza, with"
+36890,36886,hysterical
+36891,36886,"roughness in throat, from"
+36892,36878,"suppressed, from"
+36893,36063,METALLIC
+36894,36063,"METASTATIC, with the sound of croup"
+36895,36063,MILK agg.
+36896,36063,"MINUTE guns, short, hacking cough, like"
+36897,36063,MOIST
+36898,36063,MORTIFICATION
+36899,36063,MOTION agg.
+36900,36899,1 p.m.
+36901,36899,4 p.m.
+36902,36899,rapid
+36903,36899,amel.
+36904,36899,"arms, of, agg."
+36905,36899,"chest, of, agg."
+36906,36063,"MOVE, on beginning to"
+36907,36063,"MUCUS, chest, in"
+36908,36907,"upper, in agg."
+36909,36907,larynx
+36910,36907,trachea
+36911,36910,"ascending or descending, as from"
+36912,36910,"sensation of, in, from"
+36913,36063,MUSIC agg.
+36914,36063,NERVOUS
+36915,36914,"evening, sunset to sunrise; peculiar to women"
+36916,36914,all night
+36917,36914,"anyone enters the room, when"
+36918,36914,"lying, while"
+36919,36063,NOISE agg.
+36920,36063,"ODORS, strong"
+36921,36063,OLD people
+36922,36921,"morning, chronic"
+36923,36921,night
+36924,36921,winter
+36925,36063,"OPPRESSION, epigastrium"
+36926,36063,OPPRESSIVE
+36927,36063,OVERHEATING
+36928,36063,"OVERPOWERING, as if larynx were tickled by a feather in evening before sleep"
+36929,36063,"PAIN, larynx, in, from"
+36930,36929,"trachea, in, from"
+36931,36063,PAINFUL
+36932,36931,"evening, in bed"
+36933,36931,night
+36934,36931,"midnight, waking before"
+36935,36063,PANTING
+36936,36935,audible rumbling in chest from above downward
+36937,36935,preventing sleep
+36938,36063,PAROXYSMAL
+36939,36938,daytime
+36940,36939,amel.
+36941,36938,morning
+36942,36941,"bed, in"
+36943,36941,eating amel.
+36944,36941,"rising, after"
+36945,36941,"waking, after"
+36946,36938,forenoon
+36947,36938,noon until midnight
+36948,36938,afternoon
+36949,36948,1-30 p.m.
+36950,36948,2 p.m.
+36951,36948,4 p.m.
+36952,36948,5 p.m.
+36953,36948,5 to 9 p.m.
+36954,36938,evening
+36955,36954,"bed, in"
+36956,36954,"cool wind, in"
+36957,36954,"lying down, after"
+36958,36954,6-15 p.m.
+36959,36954,7 p.m.
+36960,36954,till midnight
+36961,36938,night
+36962,36961,"bed, before going to"
+36963,36961,"becoming warm, in"
+36964,36961,"every other, on falling asleep"
+36965,36961,midnight
+36966,36965,before
+36967,36966,on falling asleep on either side
+36968,36966,swallowing mucus amel.
+36969,36966,11 p.m.
+36970,36969,"lying down, after"
+36971,36969,"sleep, after"
+36972,36966,11-30 p.m.
+36973,36965,after
+36974,36973,2 a.m.
+36975,36973,2 and 3-30 a.m.
+36976,36938,attacks follow one another quickly
+36977,36976,"first the strongest, following ones weaker and weaker"
+36978,36938,"bread or cake, from eating"
+36979,36938,"breath, gasping for, commences with"
+36980,36938,change of temperature
+36981,36938,"chill, after"
+36982,36938,consisting of few coughs
+36983,36982,long coughs
+36984,36982,short coughs
+36985,36982,three coughs
+36986,36982,two coughs
+36987,36986,in quick succession
+36988,36938,convulses while body in sudden paroxysms
+36989,36938,"crawling in larynx, from"
+36990,36938,"dinner, after"
+36991,36938,followed by copious mucus
+36992,36938,"hard spells of coughing, not ceasing until masses of offensive sputa are raised"
+36993,36938,"rinsing mouth with cold water, amel."
+36994,36938,sitting up amel.
+36995,36938,"smoking, while"
+36996,36938,"sneezing, with"
+36997,36938,"stomach, lying hand on pit of, amel."
+36998,36938,"suffocation, suddenly on swallowing"
+36999,36938,"sun, walking in hot"
+37000,36938,uninterrupted paroxysms
+37001,36938,walking in cool wind
+37002,36063,"PARTURITION, after"
+37003,36063,"PEPPER, from"
+37004,36063,PERIODIC
+37005,37004,daytime
+37006,37004,morning
+37007,37004,"evening, sunset to sunrise"
+37008,37004,night
+37009,37008,every other
+37010,37009,fourth
+37011,37008,midnight
+37012,37011,after
+37013,37012,every half hour
+37014,37008,2 a.m.
+37015,37004,"day, every other"
+37016,37004,"hour, same, every day"
+37017,37016,every three hours
+37018,37004,"speaking or smoking, from"
+37019,36063,PERSISTENT
+37020,37019,"midnight, lying on back, agg.; lying on side, amel."
+37021,36063,"PERSONS, other coming into room, agg."
+37022,37021,"approaching or passing, agg."
+37023,37021,"many are present, where, agg."
+37024,36063,"PIANO, when playing"
+37025,37024,every note she struck seemed to vibrate in her larynx
+37026,36063,"PLEURISY, in"
+37027,36063,"PLUG, sensation of a, in larynx, from"
+37028,37027,"sensation as of a, moving up and down in trachea, from"
+37029,36063,POTATOES agg.
+37030,36063,"PREGNANCY, during"
+37031,37030,night
+37032,36063,"PRESSING pain in larynx, from"
+37033,36063,"PRESSURE, chest, in"
+37034,37033,"on the goitre, from"
+37035,37033,"on larynx, from"
+37036,37035,"sensation between pressure and roughness, which gradually becomes a tickling from"
+37037,37035,"trachea, from"
+37038,37033,in stomach
+37039,37033,"throat-pit, on"
+37040,36063,"PRICKLING in trachea, from"
+37041,36063,PROSTRATION with
+37042,36063,"PUTTING out the tongue, from"
+37043,36063,RACKING
+37044,37043,morning
+37045,37044,"waking, on"
+37046,37043,3 p.m.
+37047,37043,evening
+37048,37047,10 p.m.
+37049,37047,till midnight
+37050,37043,night
+37051,37050,"midnight, after"
+37052,37043,"deep inspiration, on"
+37053,37043,drinking water amel.
+37054,37043,sitting up amel.
+37055,36063,"RAISED, child must be, gets blue in face, cannot exhale"
+37056,36063,"RAISING the arms, agg."
+37057,36063,"RAPID, until patient falls back as limber as a rag"
+37058,36063,RASPING
+37059,36063,RATTLING
+37060,37059,daytime
+37061,37059,morning
+37062,37059,evening
+37063,37059,night
+37064,37059,"eating, while"
+37065,37064,after
+37066,37059,"hoarseness, with"
+37067,37066,without
+37068,37059,old people
+37069,37059,open air amel.
+37070,37059,spells in
+37071,37059,"wheezing or whistling with cough, while lying on back, or on either side"
+37072,36063,RAWNESS in larynx excites
+37073,36063,READING aloud agg.
+37074,37073,evening
+37075,36063,"RE-ECHO, seems to, in stomach"
+37076,36063,"REMITTENT fever, during"
+37077,36063,RESONANT
+37078,36063,RETCHING
+37079,36063,RIDING
+37080,36063,RINGING (clear)
+37081,36063,RINSING mouth agg.
+37082,36063,"RISING, on"
+37083,37082,amel.
+37084,37082,"bed, from"
+37085,37082,before
+37086,37082,"stooping, from"
+37087,36063,"ROOM, in"
+37088,36063,ROUGH
+37089,37088,night
+37090,37089,midnight
+37091,36063,ROUGHNESS in larynx causes cough
+37092,37091,"trachea, in, from"
+37093,36063,RUNNING agg.
+37094,36063,SALT food
+37095,37094,"and pepper in larynx, as if from"
+37096,36063,"SCARLATINA, following"
+37097,36063,"SCIATICA, alternating with, in summer"
+37098,36063,SCRAPING
+37099,37098,evening
+37100,37099,"lying down, after"
+37101,37098,night
+37102,37101,"waking, on"
+37103,37098,"chest, in"
+37104,37103,"upper, in"
+37105,37098,fauces
+37106,37098,"larynx, from"
+37107,37098,"pharynx, in"
+37108,37098,"trachea, in, from"
+37109,36063,SCRATCHING
+37110,37109,"larynx, in"
+37111,37109,"trachea, in, from"
+37112,36063,SCREAMING
+37113,36063,"SCREECHING shrill, in painless paroxysmal"
+37114,36063,"SEA wind, from"
+37115,36063,"SERIES, in"
+37116,37115,10 to 11 a.m.
+37117,36063,SEVERE
+37118,36063,SHAKING
+37119,36063,SHARP
+37120,37119,"eating, after"
+37121,36063,SHATTERING
+37122,36063,SHORT
+37123,37122,daytime
+37124,37123,and night
+37125,37122,morning
+37126,37125,"rising, after"
+37127,37125,"tea drinking, after"
+37128,37125,"waking, on"
+37129,37122,forenoon
+37130,37129,11 a.m.
+37131,37122,afternoon
+37132,37131,2 p.m.
+37133,37131,5 p.m.
+37134,37122,evening
+37135,37134,"bed, in"
+37136,37134,"sleeping, while"
+37137,37134,smoking agg.
+37138,37134,"undressing, on"
+37139,37122,night
+37140,37139,"bed, in"
+37141,37139,"midnight, before"
+37142,37141,wakens
+37143,37141,11 p.m.
+37144,37141,after
+37145,37122,"air, open agg."
+37146,37122,"breathing, deep"
+37147,37122,"deep cough, alternating with"
+37148,37122,"dinner, after"
+37149,37122,"eating, after"
+37150,37122,frequent
+37151,37122,inspiration agg.
+37152,37122,"irritation in larynx, from"
+37153,37122,"lying, after eating"
+37154,37122,"moving, when"
+37155,37122,"siesta, after"
+37156,37122,sitting up amel.
+37157,37122,"smoking, when"
+37158,37122,"swallowing, from"
+37159,37122,"talking, while"
+37160,37122,"tickling in larynx, from"
+37161,37122,walking fast
+37162,37161,"open air, in"
+37163,36063,SHRILL
+37164,37163,"waking, on"
+37165,36063,SIBILANT
+37166,37165,"and dry, like a saw driven through a pine board"
+37167,36063,SINGING agg.
+37168,37167,"raising the voice, from"
+37169,36063,"SIT UP, must"
+37170,37169,as soon as cough commences
+37171,37169,"and cough it out, when had rest"
+37172,36063,"SITTING, while"
+37173,37172,bent agg.
+37174,37173,amel.
+37175,37172,erect
+37176,37175,amel.
+37177,37172,long agg.
+37178,37172,"still, while"
+37179,37178,afternoon
+37180,37178,amel.
+37181,37172,up amel.
+37182,36063,"SLEEP, before"
+37183,37182,during
+37184,37182,after
+37185,37182,disturbing
+37186,37182,falls asleep during dry cough
+37187,37182,"going to, on"
+37188,37187,"lying on side, when"
+37189,37187,one hour after
+37190,37182,preventing
+37191,37182,"starting in, on"
+37192,37182,wakens from
+37193,36063,SMARTING
+37194,36063,SMOKE of all kinds agg.
+37195,37194,"sensation of, in trachea, from"
+37196,36063,SMOKING agg.
+37197,37196,evening
+37198,37196,night amel.
+37199,37196,"dinner, after, on"
+37200,36063,SMOTHERED
+37201,36063,"SMOTHERING in throat, from"
+37202,36063,"SNEEZING, ends in"
+37203,37202,from
+37204,37202,amel.
+37205,37202,with
+37206,36063,"SNORING, with"
+37207,36063,"SNOWFALL, exposure to, in children, from"
+37208,36063,SONOROUS
+37209,36063,SOUNDLESS
+37210,36063,SOUR food
+37211,36063,SPASM
+37212,36063,SPASMODIC
+37213,37212,"daytime, only"
+37214,37213,amel.
+37215,37212,morning
+37216,37215,bed
+37217,37215,eating amel.
+37218,37215,"rising, after"
+37219,37215,waking
+37220,37212,forenoon
+37221,37212,"noon, until midnight"
+37222,37212,afternoon
+37223,37212,evening
+37224,37223,"midnight, until"
+37225,37224,after
+37226,37212,night
+37227,37226,"waking, on"
+37228,37226,midnight
+37229,37228,"afternoon, until"
+37230,37228,before
+37231,37230,10-30 p.m.
+37232,37228,after
+37233,37226,sunset to sunrise
+37234,37212,aged people
+37235,37212,autumn
+37236,37212,change of temperature
+37237,37212,cold drink amel.
+37238,37212,deep inspiration amel.
+37239,37212,"drinking, after"
+37240,37212,"eating, after"
+37241,37240,amel.
+37242,37212,lying agg.
+37243,37212,smoking agg.
+37244,37243,amel.
+37245,37212,summer heat amel.
+37246,37212,swallowing liquids agg.
+37247,37212,"talking, after"
+37248,37212,"vomiting, with"
+37249,37212,"waking, on"
+37250,37212,"whooping cough, after"
+37251,37212,winter
+37252,37212,"women, peculiar to"
+37253,36063,SPEAKING
+37254,36063,"SPIRITS, drinking"
+37255,36063,"SPLENIC troubles, from"
+37256,36063,SPLITTING
+37257,37256,night
+37258,36063,"SPOKEN to, on being"
+37259,36063,"SPOT in larynx, as if from dry"
+37260,36063,"SPRING, in the"
+37261,37260,and autumn
+37262,36063,"SPRINGS up, child, and clings to those around; calls for help in a hoarse voice, bends backward and grasps at larynx"
+37263,36063,STANDING agg.
+37264,37263,amel.
+37265,37263,"erect, while"
+37266,37263,"sitting, after, and vice versa"
+37267,37263,"still, during a walk"
+37268,36063,STERTOROUS
+37269,37268,night
+37270,36063,"STICKING, chest, in"
+37271,37270,"in larynx, from"
+37272,37271,1 to 4 a.m.
+37273,36063,STIMULANTS
+37274,36063,"STINGING in larynx, or burning tickling, from"
+37275,36063,"STITCHING, chest, in"
+37276,37275,epigastric region
+37277,37275,"in larynx, from"
+37278,37277,evening
+37279,37275,"in trachea, from"
+37280,36063,"STOMACH, seems to come from the"
+37281,37280,"turned inside out, feeling as if"
+37282,36063,"STOOLS, frequent, amel."
+37283,36063,STOOPING
+37284,36063,"STORM, before"
+37285,37284,"thunder, before"
+37286,36063,STRAINING
+37287,36063,"STRANGERS, child coughs at sight of"
+37288,36063,STRANGLING
+37289,36063,STRETCHING out the arms
+37290,37289,followed by
+37291,36063,"STUDENTS, of"
+37292,36063,SUDDEN
+37293,37292,daytime
+37294,37293,morning
+37295,37292,"rising, on"
+37296,37292,forenoon
+37297,37292,evening
+37298,37297,while sitting
+37299,37292,night
+37300,36063,SUFFOCATIVE
+37301,37300,daytime
+37302,37300,morning
+37303,37302,"lying down, while"
+37304,37302,"rising, after"
+37305,37302,5 a.m.
+37306,37300,noon
+37307,37300,evening
+37308,37307,"bed, in"
+37309,37307,6 p.m.
+37310,37307,7 p.m.
+37311,37300,night
+37312,37311,midnight
+37313,37312,after
+37314,37311,2 and 4 a.m.
+37315,37311,5 a.m.
+37316,37300,child becomes stiff and blue in face
+37317,37300,"eating and drinking, after"
+37318,37300,"inspiration, from"
+37319,37300,"lying, while"
+37320,37300,"sleep, during"
+37321,37300,"swallowing, on"
+37322,37300,walking
+37323,36063,SUGAR agg.
+37324,37323,amel.
+37325,37323,"dissolving in larynx, as if was"
+37326,36063,"SULPHUR fumes or vapour, sensation of agg."
+37327,36063,SUN agg.
+37328,36063,"SUPPER, during"
+37329,37328,after
+37330,36063,"SUPPORT, must"
+37331,36063,"SURPRISE, happy agg."
+37332,36063,SWALLOWING agg.
+37333,37332,amel.
+37334,37332,empty
+37335,37334,amel.
+37336,36063,SWEETMEATS agg.
+37337,36063,"SWOLLEN, larynx, from"
+37338,37337,"feeling in larynx, from"
+37339,36063,SYMPATHETIC
+37340,37339,night
+37341,36063,TALKING
+37342,37341,evening
+37343,37341,night
+37344,37341,loud
+37345,37341,"inability to speak, with"
+37346,36063,"TALL, slender, tuberculous subjects, in"
+37347,36063,TEA agg.
+37348,37347,"hot, agg."
+37349,36063,TEARING
+37350,37349,night
+37351,37349,"menses, during"
+37352,37349,"sensation, cardiac region"
+37353,36063,TEASING
+37354,36063,TEDIOUS
+37355,36063,"TENSION, chest, in"
+37356,36063,THINKING of it agg.
+37357,36063,THREE coughs in succession
+37358,36063,THUNDER
+37359,36063,TICKLING
+37360,37359,daytime
+37361,37360,and night
+37362,37359,morning
+37363,37362,"rising, after"
+37364,37362,"walking, after"
+37365,37359,"afternoon, 3 p.m."
+37366,37359,evening
+37367,37366,"bed, in"
+37368,37366,"falling asleep, before"
+37369,37366,"going to sleep, on"
+37370,37366,"midnight, until"
+37371,37366,"6 p.m., expectoration of mucus, amel."
+37372,37359,night
+37373,37359,3 a.m.
+37374,37359,"air, in open"
+37375,37359,"smoking, from"
+37376,37359,"talking, on"
+37377,37359,"waking, on"
+37378,37359,bronchia
+37379,37378,bifurcation
+37380,37359,chest
+37381,37380,"upper, in"
+37382,37359,"epigastrium, from"
+37383,37359,fauces
+37384,37359,"larynx, in, from"
+37385,37384,"morning, rising, after"
+37386,37384,afternoon
+37387,37386,2 p.m.
+37388,37384,evening
+37389,37384,night
+37390,37389,11-30 p.m.
+37391,37389,3 to 4 a.m.
+37392,37384,"down, as from"
+37393,37384,"lying, while"
+37394,37384,"small spot in, agg."
+37395,37384,extending to chest
+37396,37395,to midsternum
+37397,37359,"pharynx, in"
+37398,37397,night
+37399,37359,præcordial region
+37400,37359,"stomach, in, from"
+37401,37359,throat
+37402,37359,"throat-pit, in, from"
+37403,37359,"tonsils, below"
+37404,37359,"trachea, in, from"
+37405,36063,TIGHT
+37406,37405,daytime
+37407,37405,evening
+37408,36063,"TIGHTNESS, chest"
+37409,36063,"TINGLING, chest"
+37410,37409,"larynx, from"
+37411,37409,"trachea, from"
+37412,36063,TITILLATING
+37413,36063,TONELESS
+37414,36063,TORMENTING
+37415,36063,"TOUCHING the canal of ear, on"
+37416,37415,larynx lightly agg.
+37417,36063,TRUMPET-TONED
+37418,36063,"TUBE, sounds as if he coughed in a"
+37419,36063,TURNING from left to right side amel.
+37420,37419,in bed agg.
+37421,37419,on side agg.
+37422,37419,the head agg.
+37423,36063,TWO coughs in a paroxysm
+37424,36063,UNCOVERING agg.
+37425,37424,feet or head
+37426,37424,hands
+37427,36063,UNINTERRUPTED
+37428,36063,"VACCINATION, after"
+37429,36063,"VARIOLA, during"
+37430,37429,after
+37431,36063,"VAULTS, air of"
+37432,36063,"VEXATION, after"
+37433,36063,"VINEGAR, after"
+37434,36063,VIOLENT
+37435,37434,daytime
+37436,37434,morning
+37437,37436,"early, in bed"
+37438,37436,"rising, before"
+37439,37436,"waking, on"
+37440,37434,noon
+37441,37434,afternoon
+37442,37434,evening
+37443,37442,"lying, after"
+37444,37434,night
+37445,37444,3 a.m.
+37446,37434,"dinner, after"
+37447,37434,laughing
+37448,37434,"sitting or lying, while, not during motion"
+37449,37434,"sleep, in"
+37450,37434,spasmodic perking of head forward and knees upward
+37451,37434,"talking, from"
+37452,37434,uninterrupted until relieved by vomiting
+37453,37434,"waking, on"
+37454,37434,"yawning, on"
+37455,36063,"VIOLIN, playing on"
+37456,36063,WAKENS
+37457,36063,"WAKING, on"
+37458,36063,WALKING
+37459,37458,amel.
+37460,37458,fast
+37461,36063,"WARM, on becoming"
+37462,37461,in bed
+37463,37461,warming abdomen amel.
+37464,37461,fluids
+37465,37464,amel.
+37466,37461,food
+37467,37466,amel.
+37468,37461,room
+37469,37468,"entering, from open air"
+37470,37468,"going from, to cold air, or vice versa, agg."
+37471,37461,stove
+37472,36063,WATER
+37473,36063,"WEATHER, change of"
+37474,37473,damp
+37475,37473,hot
+37476,37473,stormy
+37477,37473,"warm, wet"
+37478,37473,"wet, cold"
+37479,36063,"WEEPING, with"
+37480,36063,"WET, getting"
+37481,36063,WHEEZING
+37482,36063,"WHINING, during"
+37483,36063,"WHISPERING sounds, has a"
+37484,36063,WHISTLING
+37485,36063,WHOOPING
+37486,37485,daytime
+37487,37485,morning
+37488,37485,forenoon
+37489,37485,afternoon
+37490,37489,"midnight, until"
+37491,37485,evening
+37492,37491,6 to 10 p.m.
+37493,37491,"midnight, until"
+37494,37491,"night, and"
+37495,37485,night
+37496,37495,"midnight, before"
+37497,37496,after
+37498,37495,2 a.m.
+37499,37495,3 a.m.
+37500,36063,"WIND, in the"
+37501,37500,"cold, in the"
+37502,37501,"dry, in the"
+37503,37500,"east, in the"
+37504,37500,"north, in the"
+37505,37500,"sea, in the"
+37506,37500,"sharp, in"
+37507,37500,"south, in the"
+37508,37500,"west, in the"
+37509,36063,WINE
+37510,37509,amel.
+37511,36063,WINTER
+37512,37511,alternating with sciatica in summer
+37513,37511,old people
+37514,36063,"WORM, sensation as if a, crawled up from pit of stomach in throat, from"
+37515,36063,WRITING
+37516,36063,YAWNING
+37517,37516,and coughing consecutively
+60884,,CHILL
+60885,60884,COLDNESS in general
+60886,60884,DAYTIME
+60887,60886,with sweat at night
+60888,60887,fever at night
+60889,60884,MORNING
+60890,60889,"bed, in"
+60891,60889,"breakfast, during"
+60892,60891,after
+60893,60889,continuing through the forenoon
+60894,60893,until evening
+60895,60889,"heavy chill morning of one day, light in afternoon of next"
+60896,60889,"menses, during, after faintness"
+60897,60889,"nightly emissions, after"
+60898,60889,"perspiration, after"
+60899,60889,"rising, after"
+60900,60889,"sleep, during"
+60901,60889,"uncovered, if"
+60902,60889,"waking, on"
+60903,60889,"warm stove, by a"
+60904,60889,"3 a.m., on waking"
+60905,60889,"4 a.m., followed by sweat"
+60906,60889,"5 a.m., after 36 hours' fever"
+60907,60884,FORENOON
+60908,60907,"hot room, in a"
+60909,60907,"sleep, during"
+60910,60907,"stool, after"
+60911,60907,"sudden chill, with goose skin and hair standing on end"
+60912,60907,"waking, on"
+60913,60907,"warm stove, by a"
+60914,60907,"10 a.m., lasting until 5 p.m."
+60915,60907,"11 a.m., with disgust at even the smell of food"
+60916,60907,"5 p.m., continuing until"
+60917,60884,NOON
+60918,60917,"bathing, after"
+60919,60917,"dinner, after"
+60920,60917,"heat, followed by"
+60921,60917,"sleep, after"
+60922,60884,AFTERNOON
+60923,60922,constantly increasing chilliness without subsequent heat or perspiration
+60924,60922,"diarrhœa, after"
+60925,60922,"dinner, after"
+60926,60922,"heat, following"
+60927,60926,"and sweat, with, at 5 p.m."
+60928,60922,lasting until falling asleep in the evening
+60929,60922,lasting 4 hours
+60930,60929,until morning
+60931,60922,long lasting
+60932,60922,"menses, during"
+60933,60932,first day of
+60934,60922,"perspiration, with"
+60935,60934,cold
+60936,60922,"sleep, after"
+60937,60922,violent chill with thirst and red face
+60938,60922,"walking, after"
+60939,60922,"warm room, even in a"
+60940,60922,"3 p.m., lasting until bed time"
+60941,60922,"4 to 8 p.m., with numb hands and feet icy cold at 7 p.m."
+60942,60941,with icy coldness and goose flesh
+60943,60884,EVENING
+60944,60943,"abdomen, with burning in the"
+60945,60943,"asleep, before falling"
+60946,60945,on falling asleep
+60947,60943,"bed, in"
+60948,60947,amel.
+60949,60943,"cold, from external"
+60950,60943,"colic, with"
+60951,60943,continuing until midnight
+60952,60951,all night
+60953,60943,"drinking, after"
+60954,60943,"eating, while"
+60955,60954,after
+60956,60943,followed by convulsions and heat lasting all night
+60957,60956,by sweat
+60958,60943,"heat, with flushes of"
+60959,60943,"heat, without subsequent"
+60960,60943,"lying down, after"
+60961,60943,"mingled with heat, then heat no sweat"
+60962,60943,"motion, during"
+60963,60943,pains with the
+60964,60943,"rising, on"
+60965,60943,"sleep, with stupefying"
+60966,60943,"stool, during"
+60967,60943,sunset
+60968,60943,"tea, after drinking"
+60969,60943,undressing
+60970,60943,"waking, on"
+60971,60943,"walking, while"
+60972,60943,"warm room, in a"
+60973,60943,"warmth, during external"
+60974,60943,"warmth, external, not relieved by"
+60975,60943,"writing, while"
+60976,60943,"7 p.m., as though dashed with ice-cold water, or as if the blood were running cold through the blood vessels, cold when he moves, increased by eating and drinking"
+60977,60884,NIGHT
+60978,60977,"bed, in"
+60979,60977,"hot head, with"
+60980,60977,"nausea, after"
+60981,60977,never at night
+60982,60977,"putting hand out of bed, on"
+60983,60977,"rising, on"
+60984,60977,"room, warm, in a"
+60985,60977,"sweat, during"
+60986,60977,"waking, on"
+60987,60884,MIDNIGHT
+60988,60987,before
+60989,60987,after
+60990,60989,frequent chills from 1 to 7 a.m.
+60991,60884,AFFECTED parts
+60992,60884,"AIR, in the open"
+60993,60992,amel.
+60994,60992,"exercise in, amel."
+60995,60992,"cold air, on going into the"
+60996,60995,from a warm room
+60997,60992,the least draught of
+60998,60992,walking in the open air
+60999,60998,after
+61000,60992,warm air
+61001,61000,feels cold
+61002,60884,"ALCOHOL, abuse of"
+61003,60884,ALTERNATING with heat
+61004,61003,with sweat
+61005,60884,"ANGER, after"
+61006,60884,ANNUAL chill
+61007,61006,semi-annual
+61008,60884,ANTICIPATING
+61009,61008,every day 2 hours
+61010,61009,other day
+61011,61010,one hour
+61012,61010,two hours
+61013,61010,"tertian, several hours"
+61014,61008,about 2 hours each attack
+61015,60884,or postponing
+61016,60884,"ANXIETY, caused by"
+61017,60884,"ARSENIC, abuse of"
+61018,60884,ASCENDING
+61019,60884,AUTUMNAL
+61020,60884,AUTUMN and Spring
+61021,60884,BATHING
+61022,61021,in cold water
+61023,60884,BED in
+61024,61023,amel.
+61025,61023,"coldness out of, heat in bed"
+61026,61023,putting hand out of bed
+61027,61023,rising from agg.
+61028,61027,amel.
+61029,61023,turning over in
+61030,60884,BEGINNING in and extending from abdomen
+61031,61030,abdomen to fingers and toes
+61032,61030,ankles
+61033,61030,arms
+61034,61033,"both, at once"
+61035,61033,and thighs
+61036,61030,"arm right, and right side"
+61037,61036,"left, and lower limbs"
+61038,61036,and hand
+61039,61030,back
+61040,61039,between the scapula
+61041,61039,dorsal region
+61042,61039,lumbar region
+61043,61030,"bladder, neck of, after urinating"
+61044,61030,"body, right side of"
+61045,61044,left side of
+61046,61030,buttocks
+61047,61030,calves
+61048,61030,chest
+61049,61048,right side of
+61050,61030,face
+61051,61030,feet
+61052,61051,right foot
+61053,61051,soles
+61054,61051,toes
+61055,61030,fingers
+61056,61055,tips of
+61057,61056,and toes
+61058,61030,hands
+61059,61058,right hand
+61060,61058,left hand
+61061,61058,palms and soles
+61062,61058,and feet
+61063,61030,head
+61064,61063,vertex
+61065,61030,knees
+61066,61030,legs
+61067,61030,lips
+61068,61030,neck
+61069,61030,nose
+61070,61030,palms and soles
+61071,61030,sacrum
+61072,61030,scalp
+61073,61030,scrobiculis cordis
+61074,61030,thighs
+61075,61030,throat
+61076,61030,toes
+61077,61030,umbilicus
+61078,61030,"wrist, left"
+61079,60884,CHANGING type
+61080,60884,CHILLINESS
+61081,61080,morning
+61082,61081,lasting all day
+61083,61082,all forenoon
+61084,61081,"rising, after"
+61085,61081,"waking, on"
+61086,61080,forenoon
+61087,61086,"before dinner, amel. by eating"
+61088,61086,hair standing on end
+61089,61080,noon
+61090,61089,after sleep
+61091,61080,afternoon
+61092,61091,"dinner, after"
+61093,61091,"menses, during"
+61094,61091,"no relieved by heat of stove, but relieved by covering up warmly in bed"
+61095,61091,"siesta, after"
+61096,61091,"subsequent heat, without"
+61097,61091,4 p.m.
+61098,61080,evening
+61099,61098,"eating, after"
+61100,61098,"falling asleep, on"
+61101,61098,"flashes of heat in the face, with"
+61102,61098,"hair standing on end, sensation of"
+61103,61098,"headache, with"
+61104,61098,"lasting all night, with cold legs"
+61105,61098,"lying in bed, on"
+61106,61105,amel.
+61107,61098,"nausea and cold limbs, with"
+61108,61098,"sleepiness, with"
+61109,61098,"wakes, as often as she"
+61110,61098,"walking, while"
+61111,61098,warm stove agg.
+61112,61080,night
+61113,61112,"lying down, after, and as often as she wakes, without thirst"
+61114,61112,"menses, before"
+61115,61114,during
+61116,61112,"sleep, during"
+61117,61112,undressing
+61118,61112,"9-30 p.m. has to go to bed, followed by shaking chill"
+61119,61080,"air, while walking in the open"
+61120,61119,the well-covered chest is chilly in the
+61121,61119,"in the open, and heat in the room"
+61122,61121,"over the whole body, but not in cold air"
+61123,61119,as if cold air were blowing on uncovered parts
+61124,61080,"apyrexia, during the"
+61125,61080,"bad news, from"
+61126,61080,"bed, out of, heat in bed"
+61127,61080,"coffee, abuse of"
+61128,61080,"coition, after"
+61129,61080,"drinking, when"
+61130,61080,"eating, while"
+61131,61130,after
+61132,61080,exciting news
+61133,61080,"fever, during"
+61134,61080,"frequent attacks of, with intermediate sleep"
+61135,61134,short attacks of
+61136,61080,"hair standing on end, sensation of"
+61137,61080,"headache, during"
+61138,61080,"labor pain, after"
+61139,61080,lasting all night
+61140,61080,"menses, before"
+61141,61140,during
+61142,61080,"pain, with"
+61143,61080,part touched
+61144,61080,"perspiration, with"
+61145,61144,as soon as he gets warm in bed
+61146,61080,slightest movement of the bed-clothes
+61147,61080,"stool, before"
+61148,61147,during
+61149,61147,after
+61150,61080,"subsequent heat, without"
+61151,61080,"urging to urinate, on"
+61152,61151,followed by
+61153,61080,"urination, before"
+61154,61153,during
+61155,61153,after
+61156,61155,amel.
+61157,61080,"vomiting, during"
+61158,61080,"waking, on"
+61159,61080,"walking, after"
+61160,61080,"warm room, when in a"
+61161,61160,"going from the open air into, when"
+61162,61160,more in a warm room than in the open air
+61163,61080,washing
+61164,60884,COLD damp weather
+61165,60884,COLDNESS of body
+61166,61165,in blood vessels
+61167,61165,in bones
+61168,60884,CONGESTIVE
+61169,60884,"COUGHING, from"
+61170,60884,COVERED
+61171,60884,CREEPING
+61172,61171,morning
+61173,61172,"on rising from bed, creeping coldness of abdomen"
+61174,61171,forenoon
+61175,61174,on going in a warm room
+61176,61171,afternoon
+61177,61176,"dinner, after"
+61178,61176,"siesta, after"
+61179,61176,4 to 6 p.m.
+61180,61171,evening
+61181,61171,night
+61182,61171,alternating with heat
+61183,61171,"cold air, in"
+61184,61171,"motion, on"
+61185,61171,"rising from sitting, when"
+61186,61171,"standing, while"
+61187,61171,"stool, before"
+61188,61187,during
+61189,61187,after
+61190,61171,"urinating, after"
+61191,61171,"warm room, in a"
+61192,60884,"DAY, a cold, in summer"
+61193,61192,seventh
+61194,61192,fourteenth
+61195,61192,twenty-first
+61196,61192,twenty-eighth
+61197,60884,DESCENDING
+61198,60884,"DIARRHŒA, during"
+61199,60884,DISORDERED stomach
+61200,60884,DRINKING agg.
+61201,61200,amel.
+61202,61200,as if ice-water were rising and falling through a cylindrical opening in left lung
+61203,61200,causes cough
+61204,61200,cold water is felt as if pouring over outside of thorax
+61205,61200,hastens and increases the chill and causes nausea
+61206,61200,increases the chill and causes vomiting
+61207,61200,"makes headache, and all other symptoms unbearable"
+61208,61200,warm drinks are tolerated
+61209,61208,agg.
+61210,61208,amel.
+61211,60884,"EATING, while"
+61212,61211,after
+61213,61212,amel.
+61214,61211,warm things agg.
+61215,61211,"indiscretions, in"
+61216,60884,"EPILEPSY, after"
+61217,60884,"EXCITEMENT, after"
+61218,60884,"EXERTION, after"
+61219,60884,"EXPOSURE, after"
+61220,61219,"cold bathing, too frequent"
+61221,61219,"draft, to a"
+61222,61221,when heated
+61223,61219,"living on water courses, from"
+61224,61219,malarial influences
+61225,61219,"rains, during"
+61226,61219,"seashore, residing at"
+61227,61219,sleeping in damp rooms
+61228,61219,soil freshly turned up
+61229,61219,standing in water
+61230,61219,"sun, to the heat of"
+61231,61219,swamps
+61232,61219,tropical countries
+61233,61219,warm weather
+61234,61219,"wet, from becoming"
+61235,61234,when over-heated
+61236,61219,working in clay
+61237,61236,in water
+61238,60884,EXTERNAL
+61239,61238,morning
+61240,61238,afternoon
+61241,61240,during sweat
+61242,61238,evening
+61243,61242,"bed, in"
+61244,61242,lasting until 4 a.m.
+61245,61238,night
+61246,61245,"sleep, during"
+61247,61245,"waking, after"
+61248,61238,"cholera, as in"
+61249,61238,"lasting 36 hours, with thirst, without desire for warmth or dread of open air, without subsequent heat"
+61250,61238,"sensation as if the hair were standing on end, with"
+61251,61238,"spots, in"
+61252,61238,"stool, during desire for"
+61253,61238,"stupor, during"
+61254,61238,"uncovering, on"
+61255,60884,"FRIGHT, from"
+61256,60884,"GRIEF, from"
+61257,60884,"HEAT, with"
+61258,61257,without subsequent
+61259,60884,"HEATED, overheated"
+61260,60884,"HELD down, desire to be"
+61261,60884,ICY COLDNESS of the body
+61262,61261,as if lying on ice
+61263,61261,in single places
+61264,61263,spots
+61265,61261,"menses, during"
+61266,61261,"of skin and covered with a cold sweat, hands and feet livid"
+61267,61266,"the whole body, with cold breath"
+61268,61261,"skin dry and blue, yet wants to be uncovered"
+61269,61261,"uncover, with desire to"
+61270,61261,"with clammy sweat and blueness, cannot bear to be covered"
+61271,60884,INTERNAL
+61272,61271,morning
+61273,61272,"bed, in"
+61274,61272,"breakfast, during"
+61275,61271,forenoon
+61276,61271,noon
+61277,61271,afternoon
+61278,61277,following heat
+61279,61277,without subsequent heat
+61280,61271,evening
+61281,61280,on falling asleep
+61282,61280,worse lying down
+61283,61271,night
+61284,61283,as if cold air were streaming through the bones
+61285,61283,"open air, in"
+61286,61283,"sleep, first, during"
+61287,61283,"waking, on"
+61288,61283,"warm room, in a"
+61289,61283,midnight
+61290,61271,"coldness, as if in the bones"
+61291,61290,in blood vessels
+61292,61271,external heat agg.
+61293,60884,IRREGULAR
+61294,60884,LONG LASTING
+61295,60884,"LYING, while"
+61296,61295,amel.
+61297,61296,"after, amel."
+61298,60884,"MENSES, before"
+61299,61298,during
+61300,61299,constant
+61301,61299,"intermission, of"
+61302,61299,"uncovered, when"
+61303,61299,"walking, while"
+61304,61298,after
+61305,60884,"MENTAL exertion, after"
+61306,60884,MONTHLY
+61307,60884,"MOTION, during"
+61308,61307,after
+61309,61307,amel.
+61310,60884,"PAIN, with"
+61311,60884,PARTIAL
+61312,60884,PERIODICITY regular and distinct
+61313,61312,clock-like
+61314,61312,irregular
+61315,61312,not marked
+61316,60884,PERNICIOUS
+61317,61316,"with red face, delirium and bursting headache, pale face when lying down, red when sitting up"
+61318,61316,"violent congestion, suffocation in warm room, chill beginning in chest"
+61319,61316,"violent congestion of head, cold body, with thirst, chill felt most severely in pit of stomach, body feels bruised"
+61320,60884,"PERSPIRATION, with"
+61321,61320,the more he sweats the colder he becomes
+61322,61320,"chill, after"
+61323,61320,"followed by, without intervening heat"
+61324,60884,POSTPONING
+61325,60884,PREDOMINATING
+61326,61325,morning
+61327,61325,noon
+61328,61325,afternoon
+61329,61325,evening
+61330,61325,night
+61331,61325,"long lasting chill without heat, sweat or thirst"
+61332,61331,"little heat, no thirst"
+61333,61325,the paroxysm consists only of chill
+61334,61325,without heat or thirst
+61335,60884,QUARTAN
+61336,61335,double
+61337,61336,"with constant diarrhœa, on the days free from fever"
+61338,60884,QUOTIDIAN
+61339,61338,double
+61340,61338,"heavy chill, morning of one day, light chill afternoon of next"
+61341,60884,"RISING up, on"
+61342,61341,amel. on
+61343,60884,"SAD NEWS, from"
+61344,60884,SEWER gas
+61345,60884,"SHAKING, shivering, rigors"
+61346,61345,morning
+61347,61346,"bed, in"
+61348,61346,"heat, without subsequent"
+61349,61346,rising
+61350,61346,"walking, while"
+61351,61345,forenoon
+61352,61351,"flying heat, with"
+61353,61351,"heat, without subsequent"
+61354,61351,"11 a.m., lasting until 4 p.m."
+61355,61345,noon
+61356,61355,"dinner, during"
+61357,61356,after
+61358,61345,afternoon
+61359,61358,as if dashed with cold water
+61360,61358,lasting until next morning
+61361,61358,"open air, slightest contract with"
+61362,61358,"with coldness and blue nails for 4 hours, followed by heat without subsequent sweat"
+61363,61345,evening
+61364,61363,"air, in the open"
+61365,61363,"bed, in"
+61366,61365,amel.
+61367,61363,"heat, without subsequent"
+61368,61363,"house, in the"
+61369,61363,"sleep, on going to"
+61370,61363,"undressing, while"
+61371,61370,after
+61372,61363,"walking in open air, while"
+61373,61363,"7 p.m., lasting until 4 a.m."
+61374,61363,"8 p.m., commencing in the feet with hair standing on end"
+61375,61363,"9 p.m., lasting until 10 a.m."
+61376,61345,night
+61377,61376,"air, in the open"
+61378,61376,"bed, before going to"
+61379,61376,"lying down, on"
+61380,61345,"air, in the open air, not ameliorated by covering"
+61381,61380,from a draft of
+61382,61345,"bed, on putting hand out of"
+61383,61345,"cold, taking hold of anything"
+61384,61345,"convulsions, during, rigors"
+61385,61345,"drinking, on"
+61386,61345,"eating, while"
+61387,61345,face livid
+61388,61345,"fright, from"
+61389,61345,"hair standing on end, with"
+61390,61345,"heat, with"
+61391,61390,"of face, with"
+61392,61391,head
+61393,61390,without subsequent
+61394,61393,or sweat
+61395,61393,or thirst
+61396,61345,"held, wants to be, so he would not shake so hard"
+61397,61345,"house, on entering the, from open air"
+61398,61345,"inspiring, on"
+61399,61345,long-lasting
+61400,61399,"little heat, no thirst"
+61401,61399,not relieved by anything
+61402,61399,"the whole day, with drawing pains in throat and back"
+61403,61399,without heat or sweat
+61404,61403,subsequent heat
+61405,61399,12 hours
+61406,61399,"24 hours, without heat, sweat or thirst"
+61407,61399,"36 hours, with subsequent heat"
+61408,61345,"maniacal delirium, with"
+61409,61345,"motion, during"
+61410,61345,"pain, during"
+61411,61345,partial
+61412,61345,"perspiration, with"
+61413,61345,"pulsating pain in occiput, with"
+61414,61345,"skin cold and blue, with"
+61415,61345,"sleep, with deep, and snoring"
+61416,61345,"stool, before"
+61417,61416,during
+61418,61416,after
+61419,61345,"swallowing, during and after"
+61420,61345,"vomiting, after"
+61421,61345,walking in open air
+61422,61345,"warm room, on going into"
+61423,61345,"yawning, on"
+61424,60884,"SIDES, one-sided"
+61425,61424,right
+61426,61424,left
+61427,61426,before epilepsy
+61428,61424,coldness of right side and heat of left
+61429,61424,numbness
+61430,61424,side on which he lies
+61431,61430,not lain on
+61432,60884,SINGLE parts
+61433,60884,"SITTING, amel."
+61434,60884,"SLEEP, during"
+61435,61434,after
+61436,61435,amel.
+61437,61434,alternating with attacks of coldness
+61438,60884,"SPRING, in"
+61439,60884,"STOOL, before"
+61440,61439,during
+61441,61439,after
+61442,60884,STORMY weather
+61443,60884,"SUMMER, in"
+61444,61443,hot weather of
+61445,60884,SUNSHINE amel.
+61446,60884,SUPPRESSED perspiration
+61447,60884,SWALLOWING agg.
+61448,60884,TERTIAN
+61449,61448,double
+61450,60884,"THINKING of the chill, agg."
+61451,60884,"TIME, 1 a.m."
+61452,61451,1 to 2 a.m.
+61453,61451,2 a.m.
+61454,61451,2 to 4 a.m.
+61455,61451,3 a.m.
+61456,61451,4 a.m.
+61457,61456,to 5 a.m.
+61458,61456,and 4 p.m.
+61459,61451,5 a.m.
+61460,61459,after fever lasting 36 hours
+61461,61451,6 a.m.
+61462,61451,6-30 a.m.
+61463,61451,6 to 9 a.m.
+61464,61451,7 a.m.
+61465,61451,7-30 a.m.
+61466,61451,7 to 9 a.m.
+61467,61466,"one day hard chill, 12 a.m., next, light one"
+61468,61451,8 a.m.
+61469,61451,8-30 a.m.
+61470,61451,8 to 9 a.m.
+61471,61451,9 a.m.
+61472,61471,to 10 a.m.
+61473,61472,11 a.m.
+61474,61451,10 a.m.
+61475,61474,to 5 p.m.
+61476,61451,10-30 a.m.
+61477,61451,10 to 11 a.m.
+61478,61477,to 2 p.m.
+61479,61478,3 p.m.
+61480,61451,11 a.m.
+61481,61480,to 12 a.m.
+61482,61451,"11 a.m. one day, 4 p.m. next"
+61483,61482,and 11 p.m.
+61484,61482,to 4 p.m.
+61485,61451,12 a.m.
+61486,61485,to 2 p.m.
+61487,61451,1 p.m.
+61488,61487,to 2 p.m.
+61489,61451,2 p.m.
+61490,61489,to 3 p.m.
+61491,61490,4 p.m.
+61492,61490,6 p.m.
+61493,61451,2-30 p.m.
+61494,61451,3 p.m.
+61495,61494,lasting 12 hours (tertian)
+61496,61494,to 4 p.m.
+61497,61496,5 p.m.
+61498,61496,6 p.m.
+61499,61496,9 p.m.
+61500,61451,4 p.m.
+61501,61500,to 5 p.m.
+61502,61451,4 to 6 p.m.
+61503,61502,to 7 p.m.
+61504,61503,8 p.m.
+61505,61503,10 p.m.
+61506,61451,5 p.m.
+61507,61506,to 6 p.m.
+61508,61507,7 p.m.
+61509,61507,8 p.m.
+61510,61451,5-30 p.m.
+61511,61451,6 p.m.
+61512,61511,to 7 p.m.
+61513,61511,to 8 p.m.
+61514,61513,lasting until 4 a.m.
+61515,61513,until 5 a.m.
+61516,61511,10 p.m.
+61517,61511,midnight
+61518,61451,7 p.m.
+61519,61518,to 9 p.m.
+61520,61518,to 10 p.m.
+61521,61451,7-30 p.m.
+61522,61451,8 p.m.
+61523,61451,9 p.m.
+61524,61451,9 to 10 p.m.
+61525,61451,9 to 12 p.m.
+61526,61451,9 p.m. to 10 a.m.
+61527,61451,10 p.m.
+61528,61451,10-30 p.m.
+61529,61451,11 p.m.
+61530,61451,12 p.m.
+61531,60884,TOUCH agg.
+61532,60884,TREMBLING and shivering
+61533,61532,morning
+61534,61532,noon
+61535,61532,afternoon
+61536,61532,evening
+61537,61532,night
+61538,61532,internal
+61539,61538,forenoon
+61540,61538,evening
+61541,60884,TURNING over in bed
+61542,60884,"UNCOVERING, undressing"
+61543,61542,amel.
+61544,60884,"UNCOVERED, wants to be, with cold, dry skin, but desires to be covered with heat and sweat"
+61545,60884,UPPER part of body
+61546,60884,"URINATION, before"
+61547,61546,during
+61548,61546,after
+61549,61548,begins in neck of bladder and spreads upwards
+61550,60884,"VEXATION, after"
+61551,60884,VIOLENT chill with delirium
+61552,61551,unconsciousness
+61553,61551,without subsequent heat
+61554,61551,with red face and thirst
+61555,61554,"bluish, cold face and hands, mottled skin"
+61556,60884,"WAKING, on"
+61557,61556,as often as he wakes
+61558,60884,"WALKING, while"
+61559,60884,WARM room agg.
+61560,61559,amel.
+61561,61559,"not amel. in, nor by a warm stove"
+61562,61559,on coming in from open air
+61563,61559,smothering in
+61564,61559,"stove, desire to be near"
+61565,61564,but it increases the chill
+61566,61564,"cold, and gets sick near"
+61567,61559,"weather, in"
+61568,60884,"WARMTH, desire for, which does not relieve"
+61569,61568,"external, amel."
+61570,61568,"bed, amel., but not by heat of stove"
+61571,61570,hot irons amel.
+61572,61570,but not by external covering
+61573,61568,"sun, desire for"
+61574,61568,unbearable
+61575,61568,"wrapping up, amel., followed by severe fever and sweat"
+61576,60884,"WATER, as if cold water were dashed over him"
+61577,61576,poured over him
+61578,61576,running down the back
+61579,61578,"from the clavicles across the chest down to the toes, along the narrow space"
+61580,61576,spurted upon the back
+61581,61576,trickled down the back
+61582,61576,from getting wet
+61583,61582,when overheated
+61584,61576,"working in, from"
+61585,60884,"WIND, as if it were blowing cold upon the body"
+61586,61585,between the shoulder blades
+61587,61585,when walking
+61588,61585,sensation as if cold air were spreading from the spine over the body like an aura-epileptica
+61589,61585,as if wind blowing upon soles while body sweating
+61590,60884,"WRITING, while"
+61591,,FEVER
+61592,61591,HEAT in general
+61593,61591,MORNING
+61594,61593,"bed, in"
+61595,61594,5 a.m. followed by shaking chill
+61596,61593,"breakfast, after"
+61597,61593,"chill, without"
+61598,61593,"chilliness, with"
+61599,61593,"rising, after"
+61600,61599,and walking about
+61601,61593,"waking, on"
+61602,61593,"walking in open air, after"
+61603,61591,FORENOON
+61604,61603,alternating with chill
+61605,61603,"chilliness, with"
+61606,61603,heat of the whole body except the head
+61607,61603,"menses, before"
+61608,61603,9 a.m.
+61609,61603,9 a.m. and 5 p.m.
+61610,61603,"10 a.m., as if dashed with hot water, or hot water running through the blood vessels"
+61611,61603,"11 a.m., with thirst and chilliness"
+61612,61603,11 a.m. to 1 p.m.
+61613,61591,NOON
+61614,61591,AFTERNOON
+61615,61614,alternating with chill
+61616,61614,"chilliness, with"
+61617,61616,followed by
+61618,61617,in the open air
+61619,61614,"coldness, external, with"
+61620,61614,"dinner, during"
+61621,61620,after
+61622,61614,"lying down, after"
+61623,61614,"sleep, after"
+61624,61614,"walking, while"
+61625,61624,"in the open air, after"
+61626,61614,1 p.m.
+61627,61614,1 to 4 p.m. with severe headache
+61628,61614,2 p.m.
+61629,61628,followed by chill at 4 p.m.
+61630,61614,3 p.m.
+61631,61614,3 to 4 p.m.
+61632,61614,4 p.m.
+61633,61632,every day amel. by eating
+61634,61614,4 p.m. until midnight
+61635,61614,4 to 5 p.m.
+61636,61614,4 to 8 p.m.
+61637,61614,5 to 6 p.m.
+61638,61591,EVENING
+61639,61638,"bed, in"
+61640,61639,with sweat
+61641,61639,after lying down
+61642,61638,"chill, after"
+61643,61638,"chilliness, with"
+61644,61638,"delirium, with"
+61645,61638,"eating, after"
+61646,61638,"lasting from 7 to 12 p.m., following 4 p.m. chill"
+61647,61646,all night
+61648,61647,followed by shuddering
+61649,61638,morning and
+61650,61638,"room, on entering the"
+61651,61638,5 p.m.
+61652,61638,6 p.m.
+61653,61652,to 8 p.m.
+61654,61638,7 p.m.
+61655,61638,8 p.m.
+61656,61655,to 9 p.m.
+61657,61591,NIGHT
+61658,61657,"anxiety and sweat, with"
+61659,61657,"chilliness, with"
+61660,61659,"chilly during day, heat at night"
+61661,61657,dry burning heat
+61662,61661,without thirst
+61663,61661,with sleeplessness
+61664,61663,anxiety
+61665,61657,"perspiration, with"
+61666,61665,clammy sweat and quick pulse
+61667,61657,"waking, on"
+61668,61667,amel.
+61669,61657,"water, as if hot water were poured over one"
+61670,61657,9 p.m.
+61671,61657,10 p.m.
+61672,61657,11 p.m.
+61673,61657,2 a.m.
+61674,61657,3 a.m.
+61675,61591,MIDNIGHT
+61676,61675,"menses, before the"
+61677,61675,"perspiration, with, when lying on the back"
+61678,61675,"sleep, during, passing away on waking"
+61679,61675,midnight and noon
+61680,61675,before
+61681,61675,after
+61682,61591,AFFECTED parts
+61683,61591,"AIR, increased in the open"
+61684,61683,amel. in
+61685,61683,intolerance of both cold and warm
+61686,61591,ALTERNATING with chills
+61687,61686,forenoon
+61688,61686,afternoon
+61689,61688,"eating, after"
+61690,61688,in open air
+61691,61686,evening
+61692,61691,"bed, in"
+61693,61691,8 p.m.
+61694,61686,night
+61695,61694,with perspiration
+61696,61686,fright
+61697,61686,"menses, during"
+61698,61686,"motion, on"
+61699,61686,with hot twitches
+61700,61686,"chilliness, dry, burning heat"
+61701,61686,perspiration
+61702,61686,shivering
+61703,61686,shuddering
+61704,61591,"ANGER, paroxysms brought on by"
+61705,61591,ANTICIPATING
+61706,61591,ANXIOUS heat
+61707,61591,ASCENDING
+61708,61591,AUTUMNAL
+61709,61591,"BED, in"
+61710,61709,amel.
+61711,61709,driving him out of bed at night
+61712,61709,"feeling of heat in bed, yet aversion to uncovering"
+61713,61709,after getting out of
+61714,61709,from putting hand out of
+61715,61709,heat on rising from
+61716,61715,and walking about
+61717,61591,"BODY, anterior part"
+61718,61717,posterior part
+61719,61717,lower part
+61720,61717,upper part
+61721,61720,with icy-cold feet
+61722,61720,but less of the head
+61723,61591,BURNING heat
+61724,61723,morning
+61725,61723,forenoon
+61726,61725,9 to 12 a.m.
+61727,61723,afternoon
+61728,61727,with transient chills
+61729,61727,"4 p.m., lasting all night"
+61730,61729,several hours
+61731,61723,evening
+61732,61723,night
+61733,61732,"in bed, intolerable burning heat"
+61734,61732,9 to 12 p.m.
+61735,61732,midnight
+61736,61735,before
+61737,61735,after
+61738,61732,3 a.m.
+61739,61723,alternating with chill
+61740,61739,with chilliness
+61741,61723,"distended blood vessels, with"
+61742,61723,"dry, burning heat, extending from head, and face, with thirst for cold drinks"
+61743,61723,"except head and face, which are covered with sweat"
+61744,61723,"feel, which he does not"
+61745,61723,"furious, delirium, with"
+61746,61723,"heat, outside, cold inside"
+61747,61723,increased by walking in open air
+61748,61723,"internal mostly, blood seems to burn in the veins"
+61749,61748,parts
+61750,61723,"interrupted with shaking chills, then internal burning heat with great thirst"
+61751,61723,lasting all day
+61752,61723,parts lain on
+61753,61723,"perspiration, with"
+61754,61723,"pricking over the whole body, with"
+61755,61723,"sleep, during"
+61756,61723,sparks
+61757,61723,"spot, in one, which is cold to the touch"
+61758,61723,"spots, in single"
+61759,61723,spreading from the hands over the whole body
+61760,61723,"stinging sensations, with"
+61761,61723,"sweat, even when bathed in, with red face"
+61762,61723,"thirst for cold drinks, with"
+61763,61762,and desire to be covered
+61764,61762,with unquenchable
+61765,61723,"within and without, body turning hot"
+61766,61591,CATARRHAL fever
+61767,61766,"menses, during"
+61768,61591,CEREBRO-SPINAL fever
+61769,61591,"CHANGING, paroxysms"
+61770,61769,"after, abuse of quinine"
+61771,61770,homœopathic potencies
+61772,61769,frequently
+61773,61769,not two paroxysms alike
+61774,61591,"CHILL absent, fever without chill"
+61775,61774,morning
+61776,61775,6 to 10 a.m.
+61777,61775,7 a.m.
+61778,61775,9 a.m.
+61779,61774,forenoon
+61780,61779,9 to 12 a.m.
+61781,61779,10 a.m.
+61782,61781,to 11 a.m.
+61783,61779,11 a.m.
+61784,61774,noon
+61785,61774,afternoon
+61786,61785,12 to 1 p.m.
+61787,61785,1 to 2 p.m.
+61788,61785,2 p.m.
+61789,61788,to 3 p.m.
+61790,61785,3 p.m.
+61791,61790,to 4 p.m.
+61792,61785,4 p.m.
+61793,61792,lasting all night
+61794,61792,to 8 p.m.
+61795,61785,5 p.m.
+61796,61785,"5-30 p.m., with pricking in tongue"
+61797,61785,5 to 6 p.m.
+61798,61797,very ill humored
+61799,61774,evening
+61800,61799,"at same hour, daily fever, with short breath"
+61801,61799,6 p.m.
+61802,61801,to 12 p.m.
+61803,61801,lasting all night
+61804,61801,to 7 p.m.
+61805,61804,8 p.m.
+61806,61799,7 p.m.
+61807,61806,to 8 p.m.
+61808,61807,12 p.m.
+61809,61799,8 p.m.
+61810,61774,night
+61811,61810,midnight
+61812,61811,before
+61813,61810,10 p.m.
+61814,61810,11 p.m.
+61815,61810,"midnight, after"
+61816,61810,12 to 2 a.m.
+61817,61816,to 3 a.m.
+61818,61810,1 to 2 a.m.
+61819,61810,2 a.m.
+61820,61810,2 to 4 a.m.
+61821,61810,3 a.m.
+61822,61810,4 a.m.
+61823,61591,"CHILL, with"
+61824,61823,heat and perspiration
+61825,61823,"perspiration, without subsequent"
+61826,61823,shaking
+61827,61591,"CHILLINESS, with"
+61828,61827,alternating with heat not perceptible to the touch
+61829,61827,continues long into the heat
+61830,61827,"lifting the covering, when"
+61831,61827,"motion, on the least"
+61832,61827,"putting the hands out of bed, from"
+61833,61591,"COITION, after"
+61834,61591,"COLDNESS, external with"
+61835,61591,"CONTINUED fever, typhus, typhoid"
+61836,61835,afternoon
+61837,61835,evening
+61838,61837,4 to 8 p.m.
+61839,61837,4 p.m. till midnight
+61840,61837,5 p.m.
+61841,61837,7 p.m.
+61842,61837,8 p.m.
+61843,61837,9 to 12 p.m.
+61844,61837,10 p.m.
+61845,61835,night
+61846,61845,temperature running very high
+61847,61845,midnight
+61848,61847,before
+61849,61847,after
+61850,61835,abdominal
+61851,61850,with icteric skin
+61852,61835,cerebral
+61853,61835,congestive
+61854,61853,with threatened cerebral paralysis
+61855,61854,collapse
+61856,61854,paralysis of lungs
+61857,61835,exanthemic
+61858,61857,"with cold, viscous sweat"
+61859,61835,hæmorrhagic
+61860,61859,oozing of dark thin blood from capillaries
+61861,61835,pectoral
+61862,61835,petechial
+61863,61862,"fetid stool, intestinal hæmorrhage, sopor, so weak that he settles down in bed into a heap"
+61864,61862,"foul breath, says there is nothing the matter with him"
+61865,61862,"putrid, foul, cadaverous smell to stool, brown, dry, leathery-looking tongue, extreme prostration"
+61866,61835,stupid form
+61867,61835,"stupor, complete"
+61868,61835,"typhus with swelled parotid, and sensitive bones"
+61869,61591,"CONVERSATION, from"
+61870,61591,COUGHING increases the heat
+61871,61591,COVERED parts
+61872,61591,"DAY, febrile heat only during the"
+61873,61872,periodically during the
+61874,61591,DESCENDING
+61875,61591,"DRINKS, warm, agg."
+61876,61591,DRINKING agg.
+61877,61876,beer
+61878,61876,coffee
+61879,61878,amel.
+61880,61876,"cold water, shivering from"
+61881,61880,amel.
+61882,61876,water
+61883,61876,wine
+61884,61591,DRY heat
+61885,61884,daytime
+61886,61884,morning
+61887,61886,on waking
+61888,61884,afternoon
+61889,61888,"chilliness, with"
+61890,61888,"sleep, during"
+61891,61888,"2 p.m., alternating with chill, as if dashed with cold water"
+61892,61884,evening
+61893,61892,"bed, in, with chilliness in back"
+61894,61892,distended veins and burning hands that seek out cool places
+61895,61892,"7 to 9 p.m., followed by chill until 10 p.m."
+61896,61884,night
+61897,61896,"delirium, with"
+61898,61896,driving him out of bed
+61899,61896,"hot vapors rise up to the brain, as if"
+61900,61896,"menses, before"
+61901,61896,"motion, on"
+61902,61896,"noise, from"
+61903,61896,"pricking as from needles, with"
+61904,61896,"rising heat and glowing redness of cheeks, without thirst, after sleep"
+61905,61896,"sleep, during"
+61906,61896,"going to, on"
+61907,61896,"spasmodic gagging, with"
+61908,61896,"sweaty hands when put out of bed, with"
+61909,61896,swollen veins of arms and hands without thirst
+61910,61884,"coition, after"
+61911,61884,"covered parts, of"
+61912,61884,walking in open air
+61913,61591,"EATING, while"
+61914,61913,amel.
+61915,61913,dinner
+61916,61913,after
+61917,61916,amel.
+61918,61913,"breakfast, after"
+61919,61913,"dinner, after"
+61920,61591,"EXANTHEMATIC fevers, measles"
+61921,61920,scarlatina
+61922,61591,"EXERTION, from"
+61923,61922,after
+61924,61923,amel.
+61925,61591,EXTERNAL heat
+61926,61925,morning
+61927,61926,10 a.m. to 3 p.m.
+61928,61925,"afternoon, with chilliness"
+61929,61928,and redness without internal heat
+61930,61928,4 p.m.
+61931,61925,evening
+61932,61931,"lying down, after"
+61933,61931,8 p.m.
+61934,61931,9 p.m.
+61935,61931,10 p.m.
+61936,61931,11 p.m.
+61937,61925,night
+61938,61937,"2 a.m., on waking"
+61939,61925,"dinner, after"
+61940,61925,"chilliness, with"
+61941,61925,desire to be fan in place of thirst during the heat
+61942,61925,sensation of coldness of the whole body
+61943,61942,of external heat without heat
+61944,61925,"yellow skin, with"
+61945,61591,GASTRIC fever
+61946,61591,HEAT absent
+61947,61591,HECTIC fever
+61948,61947,"daily, forenoon, 11 to 12 or 1 p.m."
+61949,61947,with hæmoptysis
+61950,61591,INFLAMMATORY fever
+61951,61591,INSIDIOUS fever
+61952,61591,INTENSE heat
+61953,61952,"convulsions, with"
+61954,61952,"delirium, with"
+61955,61952,"of the head and face, body cold"
+61956,61952,"sleep, during"
+61957,61956,after
+61958,61952,"stupefaction and unconsciousness, with"
+61959,61591,"INTERMITTENT, chronic"
+61960,61959,"enlarged liver, with"
+61961,61960,"spleen, with"
+61962,61959,"gout, with"
+61963,61959,incomplete
+61964,61959,"long-lasting heat, with"
+61965,61959,masked
+61966,61959,"old people, with coma"
+61967,61959,"pulmonary hæmorrhage, with"
+61968,61959,"rheumatism, with"
+61969,61959,spoiled
+61970,61959,that tends toward typhoid
+61971,61591,INTERNAL heat
+61972,61971,morning
+61973,61972,8 a.m.
+61974,61971,evening
+61975,61974,"night, must uncover, which causes chilliness"
+61976,61971,burning
+61977,61976,at 9 a.m.
+61978,61976,in the blood vessels
+61979,61971,while the body feels cold to the touch
+61980,61971,with external chill
+61981,61980,coldness of single parts
+61982,61980,cold perspiration
+61983,61591,IRREGULAR stages
+61984,61591,IRRITATIVE fever
+61985,61984,slow
+61986,61591,LONG lasting heat
+61987,61986,followed by chill
+61988,61986,"sleep, with"
+61989,61591,"MENSES, before"
+61990,61989,during
+61991,61591,"MENTAL exertion, after"
+61992,61991,amel.
+61993,61591,"MOTION, agg."
+61994,61993,amel.
+61995,61993,brings on chilliness
+61996,61993,wants to be quiet in any stage
+61997,61591,"NOISE, from"
+61998,61591,"PAIN, fever from"
+61999,61998,pain in stomach
+62000,61591,PAROXYSMS increasing in severity
+62001,62000,irregular
+62002,62001,"long chill, little heat, no thirst"
+62003,62001,one stage wanting
+62004,62001,"short chill, long heat, no thirst"
+62005,62000,regular
+62006,61591,PAROXYSMAL fever
+62007,62006,morning
+62008,62007,11 a.m.
+62009,62006,afternoon
+62010,62009,3 p.m.
+62011,62006,evening
+62012,62011,7 p.m.
+62013,62006,night
+62014,61591,PERSPIRATION absent
+62015,62014,"heat, with"
+62016,61591,PUERPERAL fever
+62017,62016,from suppressed lochia
+62018,61591,PUTRID
+62019,61591,RELAPSING
+62020,61591,REMITTENT
+62021,62020,morning
+62022,62020,afternoon
+62023,62020,evening
+62024,62020,night
+62025,62020,infantile
+62026,62020,occurring every autumn
+62027,62020,prone to become typhoid
+62028,62027,from the abuse of quinine
+62029,62020,"with redness of one cheek, paleness of the other"
+62030,61591,"RIDING in a carriage, while"
+62031,62030,amel.
+62032,62030,"in the wind, after"
+62033,61591,SEPTIC fever
+62034,61591,"SHIVERING, with"
+62035,62034,alternating with heat
+62036,62034,and perspiration with heat
+62037,62034,"drinking, from"
+62038,62034,motion from
+62039,62034,"uncovering, from"
+62040,61591,SHUDDERING with the heat
+62041,62040,"constant, with one cheek hot and red"
+62042,62040,alternating with heat
+62043,61591,"SIDE, one-sided"
+62044,62043,right
+62045,62043,left
+62046,62045,with coldness of right
+62047,62043,lain on
+62048,62043,"one cheek red and hot, the other pale and cold"
+62049,62043,"one side of the body the hand and foot are red and cold, on the other they are hot in evening and at night"
+62050,61591,SINGLE parts
+62051,61591,"SITTING, while, agg."
+62052,62051,amel.
+62053,61591,"SLEEP, heat comes on during"
+62054,62053,cold feet and sweat on waking
+62055,62053,dry heat
+62056,62053,after
+62057,62056,amel.
+62058,61591,"STAGES, irregular"
+62059,61591,STANDING agg.
+62060,62059,amel.
+62061,61591,"STOOL, before"
+62062,62061,during
+62063,62061,after
+62064,61591,STOOPING
+62065,62064,coldness when rising
+62066,61591,"SUCCESSION of stages, chill followed by heat"
+62067,62066,"alternating with thirst, then sweat"
+62068,62066,"chill followed by heat, then sweat"
+62069,62068,then sour sweat
+62070,62068,with thirst
+62071,62068,without thirst
+62072,62068,"with internal chill, then heat and sweat"
+62073,62066,chill followed by heat with sweat
+62074,62073,of the face
+62075,62073,without sweat
+62076,62073,thirst then sweat
+62077,62076,then heat without thirst
+62078,62066,"chill then sweat, without intervening heat"
+62079,62078,then cold sweat
+62080,62079,heat
+62081,62079,"sweat, without heat or thirst"
+62082,62081,then heat
+62083,62078,heat followed by chill
+62084,62083,then heat
+62085,62083,then sweat
+62086,62078,"alternating with chill, followed by sweat"
+62087,62086,then heat
+62088,62087,finally sweat
+62089,62086,then sweat
+62090,62089,cold sweat
+62091,62078,"with sweat, then chill"
+62092,62091,"external coldness, then chill, then heat with external coldness"
+62093,62092,then heat
+62094,62066,perspiration alternating with chilliness
+62095,62094,"appears long after the heat has subsided, with renewal of the earlier symptoms"
+62096,62094,followed by chill
+62097,62096,"chill, then perspiration"
+62098,62097,"then perspiration, with heat"
+62099,62094,"following chill, with heat"
+62100,62099,"chill, alternated with heat"
+62101,62100,and heat alternating then heat
+62102,62094,"during heat, followed by dry heat"
+62103,62102,"the coldness and heat, irregularly intermingle"
+62104,62094,with heat following chill
+62105,61591,"SUMMER, hot season"
+62106,61591,"SUN, in heat of"
+62107,62106,walking in
+62108,61591,TOBACCO smoking
+62109,61591,TROPICAL
+62110,61591,UNCOVERING amel.
+62111,62110,aversion to
+62112,62110,"chilliness, from"
+62113,62112,and pain
+62114,62112,in any stage of paroxysm
+62115,62110,desire for
+62116,61591,"VEXATION, heat from"
+62117,61591,"VOMITING, during"
+62118,62117,amel.
+62119,61591,WALKING in open air
+62120,62119,amel.
+62121,62119,after
+62122,61591,WARM covering agg.
+62123,62122,intolerance of both cold and warm air
+62124,62122,room agg.
+62125,62124,heat of the room is intolerable
+62126,61591,WARMTH agg.
+62127,61591,WASHING agg.
+62128,62127,amel.
+62129,61591,"WATER, as if dashed with hot water"
+62130,61591,WINTER
+62131,61591,YELLOW fever
+62132,62131,"third stage, hæmorrhages, with great paleness of face, violent headache, great heaviness of limbs and trembling of the body"
+62133,62131,when sweat is checked from exposure to a draft of air
+62134,61591,ZYMOTIC fevers
