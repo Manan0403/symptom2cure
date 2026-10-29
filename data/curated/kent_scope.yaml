@@ -1,0 +1,57 @@
+# Kent's Repertory — LOAD scope for MakerFest (Dec 2026)
+# Approved by the team on 2026-10-29 (Plan §11 proposal). Curated file: edit by hand only.
+#
+# Semantics (read by pipeline/load, Plan task P1.4):
+#   include: all           -> every rubric in the chapter
+#   include: [NAMES]       -> only these MAIN rubrics (depth 0) and everything beneath them
+# Main-rubric names are the leading UPPERCASE word(s) as printed in Kent, e.g. the line
+#   "PAIN, headache in general : Abrot., ..."  has main-rubric name  PAIN.
+# Every name below was checked against the live homeoint.org pages on 2026-10-29.
+# The loader must FAIL if a listed name is not found (typo protection).
+#
+# Concordance (cross-repertory mapping) uses a SMALLER scope: see concordance_scope.yaml.
+
+repertory: KENT
+
+chapters:
+  MIND:
+    include: [ANGER, ANXIETY, CAPRICIOUSNESS, COMPANY, CONCENTRATION, CONFUSION, CONSCIENTIOUS,
+              CONSOLATION, DELUSIONS, DESPAIR, DICTATORIAL, DULLNESS, EXCITEMENT, FASTIDIOUS,
+              FEAR, GRIEF, HURRY, IMPATIENCE, INDIFFERENCE, IRRESOLUTION, IRRITABILITY,
+              JEALOUSY, LOQUACITY, MEMORY, MOROSE, OBSTINATE, QUARRELSOME, RESTLESSNESS,
+              SADNESS, SENSITIVE, SLOWNESS, STARTING, SUSPICIOUS, TIMIDITY, WEEPING]
+  VERTIGO:       { include: all }
+  HEAD:          { include: all }
+  EAR:           { include: all }
+  HEARING:       { include: all }
+  NOSE:          { include: all }
+  THROAT:        { include: all }
+  STOMACH:       { include: all }
+  ABDOMEN:       { include: all }
+  RECTUM:        { include: all }
+  STOOL:         { include: all }
+  RESPIRATION:   { include: all }
+  COUGH:         { include: all }
+  EXPECTORATION: { include: all }
+  CHEST:         { include: all }
+  CHILL:         { include: all }   # already in the team's legacy CSV (28 Oct 2026)
+  FEVER:         { include: all }   # already in the team's legacy CSV (28 Oct 2026)
+  SKIN:          { include: all }
+  EXTREMITIES:
+    # Kent has no main rubric "RHEUMATISM": rheumatic pains are sub-rubrics of PAIN.
+    include: [ARTHRITIC, COLDNESS, CONTRACTION, CRACKING, CRAMPS, ERUPTION, GOUT, HEAVINESS,
+              INFLAMMATION, LAMENESS, NODOSITIES, NUMBNESS, PAIN, RESTLESSNESS, STIFFNESS,
+              SWELLING, WEAKNESS]
+  GENERALITIES:
+    # Modalities and general states used in almost every case. Kent has no "WEATHER" main
+    # rubric: weather modalities are under COLD, WET, CHANGE, WIND, STORM, THUNDER, the seasons.
+    include: [DAYTIME, MORNING, FORENOON, NOON, AFTERNOON, EVENING, NIGHT,
+              AIR, BATHING, CHANGE, COLD, EATING, EMACIATION, EXERTION, FAINTNESS, FOOD, HEAT,
+              INFLAMMATION, INJURIES, JAR, LASSITUDE, LYING, MOTION, OBESITY, PAIN, PERIODICITY,
+              PRESSURE, REST, SIDE, SITTING, SPRING, STANDING, STIFFNESS, STORM, SUMMER, SUN,
+              SWELLING, THUNDER, TOUCH, UNCOVERING, WALKING, WARM, WEAKNESS, WET, WIND, WINTER]
+
+# Chapters deliberately NOT loaded for MakerFest (can be enabled later without code changes):
+# EYE, VISION, FACE, MOUTH, TEETH, EXTERNAL THROAT, URINARY ORGANS, BLADDER, KIDNEYS,
+# PROSTATE GLAND, URETHRA, URINE, GENITALIA MALE, GENITALIA FEMALE, LARYNX AND TRACHEA,
+# BACK, SLEEP, PERSPIRATION.

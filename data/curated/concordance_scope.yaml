@@ -1,0 +1,66 @@
+# Concordance scope — which Kent rubrics get a Boericke mapping reviewed by the BHMS doctor.
+# Curated file. Read by pipeline/concordance/generate_candidates.py (Plan task P4.2).
+#
+# This is deliberately MUCH smaller than the load scope: the doctor's review time (~10–12 h,
+# finished by 25 Nov 2026) is the bottleneck. Kent rubrics outside this scope still work in
+# repertorization; in Combined mode they are shown as "Kent only".
+#
+# For each condition:
+#   kent:      { KENT_CHAPTER: [MAIN_RUBRIC, ...] } — names as in kent_scope.yaml (all verified
+#              on the live pages 2026-10-29)
+#   max_depth: depth under each main rubric (0 = main rubric only, 1 = + first sub-level, …)
+#   boericke:  { section_stem: all | [heading names] } — where candidates are searched. Heading
+#              names may sit at ANY level inside the section (e.g. JOINTS is level 2).
+#              This block doubles as the chapter alignment of Plan task P4.1.
+#
+# Budget rule: after the P1.4/P2.4 loads, the generator prints the number of Kent rubrics per
+# condition. If the total exceeds 400, lower max_depth or trim lists WITH THE DOCTOR before review.
+
+conditions:
+
+  headache:
+    kent:      { HEAD: [PAIN, CONGESTION, HEAVINESS], VERTIGO: [RISING, STOOPING, TURNING, LYING, NAUSEA] }
+    max_depth: 2
+    boericke:  { head: ["HEADACHE (Cephalalgia)", "VERTIGO, DIZZINESS"], modalities: all }
+
+  cold_and_cough:
+    kent:      { NOSE: [CORYZA, DISCHARGE, OBSTRUCTION, SNEEZING], THROAT: [PAIN, INFLAMMATION],
+                 COUGH: [DRY, LOOSE, NIGHT, MORNING, TICKLING, BARKING, SPASMODIC] }
+    max_depth: 1
+    boericke:  { nose: all, throat: all, respiratory: [COUGH] }
+
+  ear_infection:
+    kent:      { EAR: [PAIN, DISCHARGES, INFLAMMATION, NOISES], HEARING: [IMPAIRED] }
+    max_depth: 2
+    boericke:  { ears: all }
+
+  indigestion_acidity:
+    kent:      { STOMACH: [ERUCTATIONS, HEARTBURN, NAUSEA, PAIN, VOMITING, INDIGESTION, APPETITE] }
+    max_depth: 1
+    boericke:  { stomach: all }
+
+  diarrhoea_constipation:
+    kent:      { RECTUM: [DIARRHŒA, CONSTIPATION, DYSENTERY], STOOL: [WATERY, HARD, BLOODY] }
+    max_depth: 1
+    boericke:  { abdomen: ["DIARRHŒA, Enteritis", CONSTIPATION, DYSENTERY, "ANUS - RECTUM"] }
+
+  eczema_skin:
+    kent:      { SKIN: [ERUPTIONS, ITCHING] }
+    max_depth: 2
+    boericke:  { skin: all }
+
+  asthma:                       # complex disease 1
+    kent:      { RESPIRATION: [ASTHMATIC, DIFFICULT, WHEEZING, RATTLING], CHEST: [OPPRESSION, CONSTRICTION],
+                 COUGH: [ASTHMATIC] }
+    max_depth: 2
+    boericke:  { respiratory: [BRONCHIAL TUBES, LUNGS, RESPIRATION] }
+
+  rheumatism_joints:            # complex disease 2
+    kent:      { EXTREMITIES: [PAIN, SWELLING, STIFFNESS, ARTHRITIC, GOUT], GENERALITIES: [MOTION, REST, WET, COLD] }
+    max_depth: 1
+    boericke:  { locomotor: [RHEUMATISM, EXTREMITIES, "EXTREMITIES (UPPER)", "EXTREMITIES (LOWER)", JOINTS], modalities: all }
+
+  mind_common:                  # used in every case
+    kent:      { MIND: [ANXIETY, FEAR, IRRITABILITY, SADNESS, WEEPING, CONSOLATION, RESTLESSNESS, GRIEF] }
+    max_depth: 1
+    boericke:  { mind: all }

@@ -36,3 +36,6 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+
+# Pipeline cache (downloaded HTML, not committed)
+data/raw/
