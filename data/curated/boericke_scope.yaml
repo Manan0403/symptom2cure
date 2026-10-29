@@ -1,0 +1,30 @@
+# Boericke's Repertory (1927) — LOAD scope for MakerFest (Dec 2026)
+# Curated file: edit by hand only. Read by pipeline/load (Plan tasks P2.1 / P2.4).
+#
+# Section keys = the page FILE STEM on homeoint.org (books4/boerirep/<stem>.htm), because the
+# printed section titles vary ("RESPIRATORY SYSTEM", "GENERALITIES"). Continuation pages
+# (<stem>2.htm, <stem>3.htm) belong to the same section automatically.
+#   include: all        -> every heading in the section
+#   include: [NAMES]    -> only these level-1 headings (red) and everything beneath them
+# Level-1 names mentioned below were checked on the live pages on 2026-10-29.
+# The loader FAILS on unknown section stems or heading names.
+
+repertory: BOERICKE_REP
+
+sections:
+  mind:        { include: all }
+  head:        { include: all }   # HEADACHE (Cephalalgia); VERTIGO, DIZZINESS; …
+  ears:        { include: all }   # TYMPANUM (middle ear) > Inflammation (otitis) > …
+  nose:        { include: all }   # INTERNAL NOSE > Inflammation (rhinitis) > … > CORYZA
+  throat:      { include: all }
+  stomach:     { include: all }   # INDIGESTION - DYSPEPSIA; HYPERACIDITY (hyperchlorhydria); INFLAMMATION (gastritis); NAUSEA (qualmishness); VOMITING, retching
+  abdomen:     { include: all }   # + abdomen2: DIARRHŒA, Enteritis; DYSENTERY; HÆMORRHOIDS (piles); CONSTIPATION; ANUS - RECTUM
+  respiratory: { include: all }   # BRONCHIAL TUBES > ASTHMA; + respiratory2/3: COUGH; LARYNX; LUNGS; RESPIRATION; TRACHEA
+  skin:        { include: all }   # ECZEMA; ERUPTIONS; URTICARIA (hives, nettle rash); PSORIASIS; …
+  locomotor:   { include: all }   # EXTREMITIES …; + locomotor2: RHEUMATISM > Articular, acute, RHEUMATIC FEVER
+  fever:       { include: all }   # pairs with Kent CHILL + FEVER
+  general:     { include: all }
+  modalities:  { include: all }
+
+# Not loaded for MakerFest: eyes, face, mouth, tongue, taste, gums, teeth, urinary, male,
+# female, circulatory, nervous.
